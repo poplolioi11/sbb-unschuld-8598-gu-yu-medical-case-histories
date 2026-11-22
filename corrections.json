@@ -1,0 +1,5301 @@
+{
+  "initial_sha256": "73d345914e0a2923b5657f0be331ce8a1d92dbda542f30da7bfd003c69e19cb7",
+  "proof_inputs": [
+    {
+      "scope": [
+        1,
+        47
+      ],
+      "adjudication_sha256": "ec777c33e9ab43dd5afd98aed361c68d93e665c8ae60065e91e9de7b097a838e",
+      "open_questions_sha256": "69daa6f5b462107bf9e77a8356bcc3f02ccd5b6cc796ac0ffa1f700619735cea"
+    },
+    {
+      "scope": [
+        48,
+        72
+      ],
+      "adjudication_sha256": "e12efb1b5089256f4ad604bfc6213a45c35071dd8a9653d818ec3143daac80d9",
+      "open_questions_sha256": "0a4ef4812a38ea24c8dfce9101e04aa23e99b891452e6bba4a259a16cde2bc8d"
+    },
+    {
+      "scope": [
+        73,
+        109
+      ],
+      "adjudication_sha256": "f72a1bd801d05413c8ecc82d4aa2c9b3a2604ecb9eabc9c4907405b4ab6b9c40",
+      "open_questions_sha256": "0f7d1a76f0e7495365c2150e94bfc15d2b257471597b44ba8f9588e03986dba1"
+    }
+  ],
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "6d9d954761e90796d84941cd24734a13848b407dabf519329f13b3d696e22c30",
+      "classification": "writing"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "f6abf379b0d16107f91ae1149a70ef8eb8fcad07bc803284d6514f60b050c9d9",
+      "classification": "writing"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "08c387ec876ebb433cf9f11f528e80eb8263b913d98bb599227771a5bd32d85b",
+      "classification": "writing"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "94baa81e3a06d8a36924bac9885264f5d2f9206d94933b8c2e9ef7c7dd72ea0b",
+      "classification": "writing"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "97d44afb9e7069f859bacab5b22b071982403c4ccbc5987c2d484a10c585cba2",
+      "classification": "writing"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "902fe2d47e62bef140d8e9b3922fed9ca429ed45bfd601509c07d5a6e69b0de3",
+      "classification": "writing"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "1800067e411f074ff9477bba1d0be39825b07c3ff84074a9d90d5747846c5f0a",
+      "classification": "writing"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "a7fd5e9197d114beb1468b3cd8f5ea9f737be1b29c3f86d1fe21dc3bfd421548",
+      "classification": "writing"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "b96cac17752f775fa9aa6fc3db21ba7e205a5343d7e3beb5f783e1bead69c46d",
+      "classification": "writing"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "cc33148e4ed083d33b13d08faca120c0ab15bb6af4b9883c6f3afa9c4fe1629a",
+      "classification": "writing"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "5aaeb50b9daa4367c54f29bfe2797980cc255f4ac502e86c5012d77c375081e7",
+      "classification": "writing"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "6dc7b47c1708ab3a0343d9d1ce523d6743f7ec4618cb087da598c689188d4d7a",
+      "classification": "writing"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "ae853a7b9bfe335324f8827a3aa477889185208faa073384c0a5ae5c9dd53ba1",
+      "classification": "writing"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "79d34761ff367048183fcfbb86d9b4aa4c187fe053a4f3c30069d2eb5da42037",
+      "classification": "writing"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "7a2c87789acd46f2c6e27067871b3445cbb0fa18088307cb024bcd1e07bd402f",
+      "classification": "writing"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "d9a03ffaa84148e1232863e5ba2df510a0c61541df69fca93e7bfca3ea944b74",
+      "classification": "writing"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "9058e14f1239d6e22eeca2a994bc4617c3e08c1d2d2ad70e1884b990aeff4d99",
+      "classification": "writing"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "4e10415b5f0c58f86f39d7d4e2ea482a8c88b6757f0c3e3d4adb17d1db22d5a8",
+      "classification": "writing"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "21426bafdee33bd91208e81f3c09c8f6ada627db4ebd465c5bd9ad9025e4e874",
+      "classification": "writing"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "055b56985021116af593a246ec8d608c2040db584bead9f661eaf0d97694ae04",
+      "classification": "writing"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "d9004520c8c26748d272491bba5ad4148985b7c9862128432255f9f5b10f4e51",
+      "classification": "writing"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "76d16e6baf365b64ed1c9925973feb956692c07e6f1ba85a23f5c8a94517c18e",
+      "classification": "writing"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "730d5d888e3b4e357b58e5dfc1e99ccc72b2afe047b30abce62807d3c51ade37",
+      "classification": "writing"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "9419ae22d864e0e859b58fa382533f157c1c848adae296e1e7d864b28f1dd898",
+      "classification": "writing"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "bbf3360de3c5a0802e4c20bb92ce43a0d576da53973996f3964012ed0cfeea52",
+      "classification": "writing"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "81dc675507f3d1531d5a699455bcdbdb197d6f79400afa937f2235e6df5e5121",
+      "classification": "bleed-through"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "687c6140f320bf24b3d066e4fd64a6eea7e76d428208c638cd80b8dba57191bc",
+      "classification": "writing"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "c597718ce7c7c4fa3c7457fc89fbe8598b403a7e99db7aa5ee7e6d1c43873c76",
+      "classification": "writing"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "e6a08ec11127fce06db3627704f824d467fbf0d216a7e67eccbfe31446ad5e42",
+      "classification": "writing"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "06d63efae147eb2352852a932968a8fce1e972c003da8f0ad354b08c9121a167",
+      "classification": "writing"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "a7e23b86911b88386c5e02db72a8835d879f3768708fa07a4913128193f0cd5a",
+      "classification": "writing"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "74845b5415c015ad210d36f8bbfba64cfc3a4ffb5b5534feb696e2e6c4d2f357",
+      "classification": "writing"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "54a248e9b62a440712ed0b1f6db256769b0882e55b4103a6f3c0abe2885b3ccb",
+      "classification": "writing"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "c638d053653355c2a4bf310599debff6c5069cd0ce1620b33250ec416b879ef4",
+      "classification": "writing"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "fd49feab30e4cc4977807484c113e6b8e80300864fded939272caba01d05060c",
+      "classification": "writing"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "9212f4d0f9aa294962a8225f72d723c5f62eac8e4913cd5189a347ea2c7fa035",
+      "classification": "writing"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "e9f12d3dcfabec714dade13aaeb8bac21fef51e25e2650aaee74585d1afc17bd",
+      "classification": "writing"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "4283786ee1f4706618bc07f8be361760afceb4f552f037bfe98706e86928988d",
+      "classification": "writing"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "5a9774dcf67e40f79e7df91cb4beff78049cf074c4a4224fc4441a7765531ea3",
+      "classification": "writing"
+    },
+    {
+      "frame": 40,
+      "image_sha256": "65e5638187524bb1a6525501fd94e7e49023aa9551a0fa511bac02d56952b951",
+      "classification": "writing"
+    },
+    {
+      "frame": 41,
+      "image_sha256": "70be1af543b1e3f8b1c8ef2ccb82b3e506c96da5a75cdf78572128350521e295",
+      "classification": "writing"
+    },
+    {
+      "frame": 42,
+      "image_sha256": "b9dfd11a22ed9d51970978b7f694a13575eb39383f87962a49c3ba25192aa6ea",
+      "classification": "writing"
+    },
+    {
+      "frame": 43,
+      "image_sha256": "85dd1fa5477ec9a88941a603f82a706cf9d433d9bc7cc7d33774f4994658daef",
+      "classification": "writing"
+    },
+    {
+      "frame": 44,
+      "image_sha256": "e1cad1ca02e31cd7eee07c0001eebba1b2ec058e56bf40f7c7a8f6f0c0d41cad",
+      "classification": "writing"
+    },
+    {
+      "frame": 45,
+      "image_sha256": "1568f77e1aa9026c2b8daa72f86613de08af9ba459d8f2932e2bd3e68862849b",
+      "classification": "writing"
+    },
+    {
+      "frame": 46,
+      "image_sha256": "b2d07d6e445b6e85df5e0a80dac1372b9d8c78ed2c51ee36025ebc5ac6e5f7d2",
+      "classification": "writing"
+    },
+    {
+      "frame": 47,
+      "image_sha256": "d37d55cee68a78040e2e95460af021cd136cea1cfd1eca9e07705a2ebeca5a37",
+      "classification": "writing"
+    },
+    {
+      "frame": 48,
+      "image_sha256": "477f544c52efc6aec5aeb3d5a4e8af9562c68d58c96a80d408c23e446b23c0aa",
+      "classification": "writing"
+    },
+    {
+      "frame": 49,
+      "image_sha256": "957cc1fe1363a68faff8cc33386dd873cdd0e955c1671cff3e6b7f5d7a0e567e",
+      "classification": "writing"
+    },
+    {
+      "frame": 50,
+      "image_sha256": "b5ea2cbe73f58eacccdb2e0bd810e8b555f721912e8c6fbf82190decfe290b20",
+      "classification": "writing"
+    },
+    {
+      "frame": 51,
+      "image_sha256": "28e9f62504a58aa8f1d53c2d4440e1f6e69b0e02079acd6576204e627aa7a084",
+      "classification": "writing"
+    },
+    {
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "classification": "writing"
+    },
+    {
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "classification": "writing"
+    },
+    {
+      "frame": 54,
+      "image_sha256": "2015bb28a0a68694a0cfa6231fc2d5fea29ee7f583ef0e383ab29269107fc3e7",
+      "classification": "writing"
+    },
+    {
+      "frame": 55,
+      "image_sha256": "33cd4a4da202dd5fb1a29a1e9c48d7a637c9c72c31e8de277174b76092a92727",
+      "classification": "writing"
+    },
+    {
+      "frame": 56,
+      "image_sha256": "6109244b786bd22d7d1a8c5fa8ef36be7fcf20a12404a753a64dbd88506bf2d1",
+      "classification": "writing"
+    },
+    {
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "classification": "writing"
+    },
+    {
+      "frame": 58,
+      "image_sha256": "ca190dbc50799848d4319bfc215df01501ea180e49f24014c100b49fb0945134",
+      "classification": "writing"
+    },
+    {
+      "frame": 59,
+      "image_sha256": "a7e19bbd734471ad9ee9d081c3f9481f0952bfffe79b3f2582e59ee94ddaca45",
+      "classification": "writing"
+    },
+    {
+      "frame": 60,
+      "image_sha256": "c7fd404dd8950a26e18c610e80bcb8606a2d32254a1613bd4f84b2aa728402a6",
+      "classification": "writing"
+    },
+    {
+      "frame": 61,
+      "image_sha256": "b5ef024b4d0c798e5cb4b78a7b50082ad8193d75f0b76413ae95c3decd259890",
+      "classification": "writing"
+    },
+    {
+      "frame": 62,
+      "image_sha256": "3025e93a4526bbe1306f1f4c48c113fa86102359cb8b2e3f7c657909be30d061",
+      "classification": "writing"
+    },
+    {
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "classification": "writing"
+    },
+    {
+      "frame": 64,
+      "image_sha256": "3f50d60e5f9a184398adaf064327df6c7148d74252cb6089a47c8a35f5beeb15",
+      "classification": "bleed-through"
+    },
+    {
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "classification": "writing"
+    },
+    {
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "classification": "writing"
+    },
+    {
+      "frame": 67,
+      "image_sha256": "79a68616ac6395fbd7e85bcef98bd4ad56c7b37c0c0f1e4a55a8d7dea1dc55a7",
+      "classification": "writing"
+    },
+    {
+      "frame": 68,
+      "image_sha256": "8587a9ff9841dda46ea959055009c44e68dea844eaca777db6434649b1eb46bd",
+      "classification": "writing"
+    },
+    {
+      "frame": 69,
+      "image_sha256": "facc5b0f0a8a92fd07f557a304372f744f6453b3f4b1510b77bc7c1ac0b4bc8d",
+      "classification": "writing"
+    },
+    {
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "classification": "writing"
+    },
+    {
+      "frame": 71,
+      "image_sha256": "2f7254e6d8a38aaf1c10c90b0783f58828bee0e1fcc78e844e5373e02013ff20",
+      "classification": "writing"
+    },
+    {
+      "frame": 72,
+      "image_sha256": "50a2fd559b735844e846175d63de5fe20141898bc5c902749555596f007fce04",
+      "classification": "writing"
+    },
+    {
+      "frame": 73,
+      "image_sha256": "8469670e07456215062016731f9b1e4489a598cb779e6c3aa719636717cd6207",
+      "classification": "writing"
+    },
+    {
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "classification": "writing"
+    },
+    {
+      "frame": 75,
+      "image_sha256": "7336814ab572bc4b4c848bcd2b6bc48c3c7e89d1c3a8f818838e607931f1e0e4",
+      "classification": "writing"
+    },
+    {
+      "frame": 76,
+      "image_sha256": "b349ff9b63a1847fe0d594a9651e1ebff27e5ab630031c170909973e6bd8dd9a",
+      "classification": "writing"
+    },
+    {
+      "frame": 77,
+      "image_sha256": "460a1bfcf05d37983661acb4b1d977cdf0615f24dd112e13cc69fb9524c06581",
+      "classification": "writing"
+    },
+    {
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "classification": "writing"
+    },
+    {
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "classification": "writing"
+    },
+    {
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "classification": "writing"
+    },
+    {
+      "frame": 81,
+      "image_sha256": "f640f45b107aab728b1d948ad24f7baf1f308832bac8eb37e4edb9b686e000c0",
+      "classification": "writing"
+    },
+    {
+      "frame": 82,
+      "image_sha256": "1768a586e12948e4868cb13f7f21494887e0528809c60f939741b9311fff299b",
+      "classification": "writing"
+    },
+    {
+      "frame": 83,
+      "image_sha256": "4ca08e59f93f323f0d59cf1430cf88919ac8d9de8dda7bd87dd781fa4b651c64",
+      "classification": "writing"
+    },
+    {
+      "frame": 84,
+      "image_sha256": "2f7860a5254043240f28a2c1e7d1ab9aeea4a5b1dc2678e6351b0936a576bcbb",
+      "classification": "writing"
+    },
+    {
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "classification": "writing"
+    },
+    {
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "classification": "writing"
+    },
+    {
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "classification": "writing"
+    },
+    {
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "classification": "writing"
+    },
+    {
+      "frame": 89,
+      "image_sha256": "fe3e232b1d1b853c4d51b32e493488d38c8add2f3fa76fb2058df38645ce5a19",
+      "classification": "writing"
+    },
+    {
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "classification": "writing"
+    },
+    {
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "classification": "writing"
+    },
+    {
+      "frame": 92,
+      "image_sha256": "242009354e75ed81ba29ef557b5479ca7fcc5c3c3727248f4d04ff3355a4ef7e",
+      "classification": "writing"
+    },
+    {
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "classification": "writing"
+    },
+    {
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "classification": "writing"
+    },
+    {
+      "frame": 95,
+      "image_sha256": "540a6d3a50e25db54dd444d7b13aea2c5c942ffde457ad7a5c6dfd3513ee375f",
+      "classification": "writing"
+    },
+    {
+      "frame": 96,
+      "image_sha256": "12c3ae4d5f1034de162029cf39cb546c6f9b369b4d18e3a65dc0137e31af7f2c",
+      "classification": "writing"
+    },
+    {
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "classification": "writing"
+    },
+    {
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "classification": "writing"
+    },
+    {
+      "frame": 99,
+      "image_sha256": "f412e22ab780b0e01b312b8c7d6f6e8fd8fb24149cc4894ce8d10fe723bface5",
+      "classification": "writing"
+    },
+    {
+      "frame": 100,
+      "image_sha256": "b11b2f8eba0ec8dc4a690309c60f6e60a525fdce6b4e00df0fd1f5a46465b59c",
+      "classification": "writing"
+    },
+    {
+      "frame": 101,
+      "image_sha256": "e59cff72e988a62f10425d63a9c733bef097a21fc76777bce130cb5393018966",
+      "classification": "writing"
+    },
+    {
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "classification": "writing"
+    },
+    {
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "classification": "writing"
+    },
+    {
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "classification": "writing"
+    },
+    {
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "classification": "writing"
+    },
+    {
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "classification": "writing"
+    },
+    {
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "classification": "writing"
+    },
+    {
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "classification": "writing"
+    },
+    {
+      "frame": 109,
+      "image_sha256": "09ed29ba558e9bb6f4bb56ded04aa471075293c7f87593710cef702a597d8499",
+      "classification": "color-target-repeat"
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f013-c02",
+      "frame": 13,
+      "image_sha256": "ae853a7b9bfe335324f8827a3aa477889185208faa073384c0a5ae5c9dd53ba1",
+      "before": "枳殼　歸身　烏〔㮐？〕　綠梅　益智仁",
+      "after": "枳殼　歸全　烏〔㮐？〕　綠梅　益智仁",
+      "reason": "「歸」下字上方撇捺形成覆蓋，底部聚為短橫，字腳有王的橫筆結構。與 034 第一欄「歸全」同形，和 034 另欄「歸身」字形不同。",
+      "image_bbox_xywh_approx": [
+        1080,
+        820,
+        145,
+        235
+      ]
+    },
+    {
+      "unit": "f019-c03",
+      "frame": 19,
+      "image_sha256": "21426bafdee33bd91208e81f3c09c8f6ada627db4ebd465c5bd9ad9025e4e874",
+      "before": "加　羚頭尖　沉香片",
+      "after": "加　犂頭尖　沉香片",
+      "reason": "「頭」上字上半有近禾的尖撇、右有相連斜筆，下半是兩橫交長豎的牛。左側沒有羚字的羊旁、右側無令形。犁／犂的精確碼位仍宜核字形。",
+      "image_bbox_xywh_approx": [
+        850,
+        695,
+        164,
+        415
+      ]
+    },
+    {
+      "unit": "f020-c06",
+      "frame": 20,
+      "image_sha256": "055b56985021116af593a246ec8d608c2040db584bead9f661eaf0d97694ae04",
+      "before": "食飲呆⟦飩／滯⟧左脉短滑右部沉細舌色白膩擬調肝理氣寛",
+      "after": "食飲呆⟦飩／滯⟧左脉弦滑右部沉細舌色白膩擬調肝理氣寛",
+      "reason": "「脉」下字左部有短橫及折筆回鉤，右部兩折構成玄旁下端，與 029 第六欄脉形用字的寫法可相參。未見「短」右旁豆的口框及點撇。",
+      "image_bbox_xywh_approx": [
+        392,
+        897,
+        151,
+        270
+      ]
+    },
+    {
+      "unit": "f020-c08",
+      "frame": 20,
+      "image_sha256": "055b56985021116af593a246ec8d608c2040db584bead9f661eaf0d97694ae04",
+      "before": "法夏　枳殼　⟦玄艾／□艾⟧　茯苓　⟦橘柳／□柳⟧　帶□　薏仁",
+      "after": "法夏　枳殼　⟦玄艾／□艾⟧　猪苓　⟦橘柳／□柳⟧　帶□　薏仁",
+      "reason": "「苓」上字左旁為犬旁式斜撇和縱向開合筆，右部有者的長畫和下方口形，字頭沒有艹。",
+      "image_bbox_xywh_approx": [
+        65,
+        1245,
+        170,
+        266
+      ]
+    },
+    {
+      "unit": "f021-c01",
+      "frame": 21,
+      "image_sha256": "d9004520c8c26748d272491bba5ad4148985b7c9862128432255f9f5b10f4e51",
+      "before": "廣⟦藿／霍⟧　腹絨　瓦楞子　⟦化／□⟧金丸　九□虫",
+      "after": "廣⟦藿／霍⟧　腹絨　瓦楞子　佐金丸　九□虫",
+      "reason": "字左側人旁折撇與右部「左」的長橫斜筆分開，下端工作一短平畫。其下是三畫會合的金及環形收尾的丸。與 014 羚羊方下「佐金丸」可相參。",
+      "image_bbox_xywh_approx": [
+        1175,
+        1260,
+        166,
+        270
+      ]
+    },
+    {
+      "unit": "f022-c05",
+      "frame": 22,
+      "image_sha256": "76d16e6baf365b64ed1c9925973feb956692c07e6f1ba85a23f5c8a94517c18e",
+      "before": "肺氣攸虧濕痰內蘊咳嗆多時氣機窒塞脈形滑數擬扶",
+      "after": "肺氣攸虧濕痰內蘊咳嗆多時氣機窒塞脈形滑更擬扶",
+      "reason": "「滑」下另見一、日狀腹與末端分張的雙斜畫。與 029、030、034、035 同形。本處獨立原讀也作數，係看過初錄後以同手近例回裁所得。",
+      "image_bbox_xywh_approx": [
+        520,
+        2330,
+        160,
+        150
+      ]
+    },
+    {
+      "unit": "f024-c07",
+      "frame": 24,
+      "image_sha256": "9419ae22d864e0e859b58fa382533f157c1c848adae296e1e7d864b28f1dd898",
+      "before": "加　荸薺　蓬大海",
+      "after": "加　葶藶　蓬大海",
+      "reason": "兩字皆草頭。首字草頭下有高形及伸出的丁鉤，次字草頭下長廠撇和右下密短筆，與 022 c02「甜」下同一組字形相應。",
+      "image_bbox_xywh_approx": [
+        228,
+        722,
+        170,
+        355
+      ]
+    },
+    {
+      "unit": "f029-c02",
+      "frame": 29,
+      "image_sha256": "e6a08ec11127fce06db3627704f824d467fbf0d216a7e67eccbfe31446ad5e42",
+      "before": "形沉細擬扶元滲濕為主",
+      "after": "形沉更擬扶元滲濕為主",
+      "reason": "「沉」下字自短橫起，中段呈日形和中線，兩側伸撇捺，沒有細的左糸。與 034 c05 欄首「更」候選同形。",
+      "image_bbox_xywh_approx": [
+        1065,
+        780,
+        150,
+        130
+      ]
+    },
+    {
+      "unit": "f030-c02",
+      "frame": 30,
+      "image_sha256": "06d63efae147eb2352852a932968a8fce1e972c003da8f0ad354b08c9121a167",
+      "before": "陰虛〔挾？〕濕夢泄遺精脉形沉細擬養陰滲濕固精為",
+      "after": "陰虛〔挾？〕濕夢泄遺精脉形沉更擬養陰滲濕固精為",
+      "reason": "「沉」下短橫、居中的日狀迴筆及下部左右長筆，與 029 c02 同形，沒有細的並列糸、田。",
+      "image_bbox_xywh_approx": [
+        972,
+        1719,
+        150,
+        135
+      ]
+    },
+    {
+      "unit": "f030-c07",
+      "frame": 30,
+      "image_sha256": "06d63efae147eb2352852a932968a8fce1e972c003da8f0ad354b08c9121a167",
+      "before": "火土兩虧納穀不化黎泄瀉腹痛胃呆脉形虛細擬",
+      "after": "火土兩虧納穀不化黎泄瀉腹痛胃呆脉形虛更擬",
+      "reason": "「虛」下字有短橫及中間日樣封筆，字腳兩長筆左右分張，與同幅右二「沉」後字同形。",
+      "image_bbox_xywh_approx": [
+        182,
+        2445,
+        141,
+        126
+      ]
+    },
+    {
+      "unit": "f034-c05",
+      "frame": 34,
+      "image_sha256": "c638d053653355c2a4bf310599debff6c5069cd0ce1620b33250ec416b879ef4",
+      "before": "細姑擬養營益氣斂陰固下之法然否候　柳汀道兄",
+      "after": "更姑擬養營益氣斂陰固下之法然否候　柳汀道兄",
+      "reason": "欄首短橫分立，下有偏扁的日形連墨和左右展開兩筆，與本冊 029、030、035 相同句位的字形相應。",
+      "image_bbox_xywh_approx": [
+        515,
+        560,
+        113,
+        105
+      ]
+    },
+    {
+      "unit": "f035-c06",
+      "frame": 35,
+      "image_sha256": "fd49feab30e4cc4977807484c113e6b8e80300864fded939272caba01d05060c",
+      "before": "寒熱之後肝木不調胃脘作痛納穀痞脹脉形沉細",
+      "after": "寒熱之後肝木不調胃脘作痛納穀痞脹脉形沉更",
+      "reason": "末字為短橫、日形迴筆和撇捺字腳，無細的糸旁。接左欄「擬」讀，原欄界保留。",
+      "image_bbox_xywh_approx": [
+        437,
+        2515,
+        127,
+        120
+      ]
+    },
+    {
+      "unit": "f037-c07",
+      "frame": 37,
+      "image_sha256": "e9f12d3dcfabec714dade13aaeb8bac21fef51e25e2650aaee74585d1afc17bd",
+      "before": "營虛脾〔濕？〕腹膨經阻胃呆疲軟脉滑舌黃暫擬",
+      "after": "營虛脾〔濕？〕腹膨經阻胃呆疲軟脉滯舌黃暫擬",
+      "reason": "中間字左部點畫作水旁，右部可見斜交叉筆之下長的豎畫及兩側分腳，無「滑」右部上下封閉的骨形。",
+      "image_bbox_xywh_approx": [
+        281,
+        2082,
+        147,
+        247
+      ]
+    },
+    {
+      "unit": "f041-c08",
+      "frame": 41,
+      "image_sha256": "70be1af543b1e3f8b1c8ef2ccb82b3e506c96da5a75cdf78572128350521e295",
+      "before": "代者石　黃芩　山梔　川貝　廣藿　荸薺　蓬大海",
+      "after": "代者石　黃芩　山梔　川貝　廣藿　葶藶　蓬大海",
+      "reason": "兩字草頭下的「亭」形長丁鉤及第二字長左撇同 024 c07，以及 022 c02 所見字形。",
+      "image_bbox_xywh_approx": [
+        103,
+        2060,
+        130,
+        234
+      ]
+    },
+    {
+      "unit": "f043-c06",
+      "frame": 43,
+      "image_sha256": "85dd1fa5477ec9a88941a603f82a706cf9d433d9bc7cc7d33774f4994658daef",
+      "before": "身熱痊後胸痞脘脹肢痠体倦納穀作脹六脉虛軟擬和",
+      "after": "身熱痊後胸痞脘脹肢疲体倦納穀作脹六脉虛軟擬和",
+      "reason": "病旁內可見皮字長向下斜筆和一收尾右展筆，沒有痠內部夋的中間分立筆。",
+      "image_bbox_xywh_approx": [
+        411,
+        1270,
+        121,
+        160
+      ]
+    },
+    {
+      "unit": "f043-c07",
+      "frame": 43,
+      "image_sha256": "85dd1fa5477ec9a88941a603f82a706cf9d433d9bc7cc7d33774f4994658daef",
+      "before": "中利胃法",
+      "after": "中開胃法",
+      "reason": "第二字外部是上下相接的左右門梃、右梃收長，中部只見內筆。利的右邊並列短竪及長鉤形不合。",
+      "image_bbox_xywh_approx": [
+        263,
+        380,
+        125,
+        440
+      ]
+    },
+    {
+      "unit": "f046-c03",
+      "frame": 46,
+      "image_sha256": "b2d07d6e445b6e85df5e0a80dac1372b9d8c78ed2c51ee36025ebc5ac6e5f7d2",
+      "before": "服藥後咳嗆失血均覺頗減脉得和緩為虛損之萌藥難",
+      "after": "服藥後咳嗆失血均覺頗減脉得和緩屬虛損之萌藥難",
+      "reason": "「緩」下字有尸形長撇、右側含連續迴筆及末端內點，與同份 041 c06「屬」近形，不是為的爪與多點字腳。",
+      "image_bbox_xywh_approx": [
+        842,
+        1950,
+        136,
+        126
+      ]
+    },
+    {
+      "unit": "f048-c03",
+      "frame": 48,
+      "image_sha256": "477f544c52efc6aec5aeb3d5a4e8af9562c68d58c96a80d408c23e446b23c0aa",
+      "before": "冬虫夏艸　仝皮　羚羊　蘇子　赭石",
+      "after": "冬虫夏艸　会皮　羚羊　蘇子　赭石",
+      "reason": "該字上為人形，下見短橫與兩筆折撇，與同冊第 062 幅寫法相同，照錄会形。",
+      "image_bbox_xywh_approx": [
+        858,
+        742,
+        124,
+        257
+      ]
+    },
+    {
+      "unit": "f051-c04",
+      "frame": 51,
+      "image_sha256": "28e9f62504a58aa8f1d53c2d4440e1f6e69b0e02079acd6576204e627aa7a084",
+      "before": "北五味　川貝　青黛　紫苑　馬兜〔苓／鈴？〕",
+      "after": "北五味　川貝　青黛　紫苑　馬兜令",
+      "reason": "兜以下一字有人形覆筆，下兩筆折接，左側與上方未見別部件，字形為令。",
+      "image_bbox_xywh_approx": [
+        793,
+        2118,
+        126,
+        144
+      ]
+    },
+    {
+      "unit": "f054-c03",
+      "frame": 54,
+      "image_sha256": "2015bb28a0a68694a0cfa6231fc2d5fea29ee7f583ef0e383ab29269107fc3e7",
+      "before": "鹽水炒西耆　大安砂",
+      "after": "鹽水炒西黨　大安砂",
+      "reason": "末字上所見短點覆蓋中框，底筆橫列帶點，與第 055 幅「西」下同字同形。",
+      "image_bbox_xywh_approx": [
+        811,
+        747,
+        147,
+        228
+      ]
+    },
+    {
+      "unit": "f055-c01",
+      "frame": 55,
+      "image_sha256": "33cd4a4da202dd5fb1a29a1e9c48d7a637c9c72c31e8de277174b76092a92727",
+      "before": "〔鞠？〕背痛痰阻于足三陰經久已潰",
+      "after": "鞠背瘤疾阻于足三陰經久已潰",
+      "reason": "首字左革右匊可辨。第三、第四字各見疒，內部前一字留的折筆及下框可辨，後一字見矢的散撇捺。",
+      "image_bbox_xywh_approx": [
+        1236,
+        489,
+        144,
+        508
+      ]
+    },
+    {
+      "unit": "f055-c05",
+      "frame": 55,
+      "image_sha256": "33cd4a4da202dd5fb1a29a1e9c48d7a637c9c72c31e8de277174b76092a92727",
+      "before": "炙龜版　穀芽　西耆",
+      "after": "炙龜版　穀芽　西黨",
+      "reason": "兩字上為西。下字中央小框，底筆橫列帶點，與第 054 幅同形。",
+      "image_bbox_xywh_approx": [
+        635,
+        1230,
+        147,
+        304
+      ]
+    },
+    {
+      "unit": "f057-c08",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "before": "青防風　山梔　連翹　鬱金　枳殻　甘菊",
+      "after": "青防風　山梔　連翹　鬱金　枳殻　青蒿",
+      "reason": "兩字寫在枳殻以下，前一字上端縱短橫，下有月形，後一字下見相接的小框及外框。",
+      "image_bbox_xywh_approx": [
+        131,
+        2280,
+        152,
+        258
+      ]
+    },
+    {
+      "unit": "f058-c04",
+      "frame": 58,
+      "image_sha256": "ca190dbc50799848d4319bfc215df01501ea180e49f24014c100b49fb0945134",
+      "before": "法半夏　猪苓　蔞全　〔藶？〕子",
+      "after": "法半夏　猪苓　蔞全　蒼耳子",
+      "reason": "蔞全下方另起一組三字，中字有耳的橫筆與向下直筆，首字草頭下見倉形，末字是子。",
+      "image_bbox_xywh_approx": [
+        686,
+        1605,
+        160,
+        430
+      ]
+    },
+    {
+      "unit": "f060-c06",
+      "frame": 60,
+      "image_sha256": "c7fd404dd8950a26e18c610e80bcb8606a2d32254a1613bd4f84b2aa728402a6",
+      "before": "九孔石决明　龍齒　雲神　蒺藜",
+      "after": "九孔石决明　龍齒　雲神　艾藜",
+      "reason": "前字草頭下是交叉撇捺，字腹留白，和第 054 幅刺蒺藜的蒺字疒部寫法不同。",
+      "image_bbox_xywh_approx": [
+        362,
+        1811,
+        133,
+        283
+      ]
+    },
+    {
+      "unit": "f061-c01",
+      "frame": 61,
+      "image_sha256": "b5ef024b4d0c798e5cb4b78a7b50082ad8193d75f0b76413ae95c3decd259890",
+      "before": "腎水不充肝陽上發陽明之火有升無降以致牙痛",
+      "after": "腎水不充肝陽上發陽明之火有升無降以致牙漏",
+      "reason": "牙下末字左有分筆水旁，右上折成尸形，下有相接的點劃。與第 069 幅作痛的痛形對看可辨。",
+      "image_bbox_xywh_approx": [
+        1218,
+        2528,
+        153,
+        241
+      ]
+    },
+    {
+      "unit": "f061-c07",
+      "frame": 61,
+      "image_sha256": "b5ef024b4d0c798e5cb4b78a7b50082ad8193d75f0b76413ae95c3decd259890",
+      "before": "怯損之根纏綿幾載去秋來血痢不止胃納減少形",
+      "after": "怯損之根纏綿幾載去秋末血痢不止胃納減少形",
+      "reason": "秋下末字的兩橫有長短，上橫較長，一豎貫穿兩橫後下筆分撇捺。",
+      "image_bbox_xywh_approx": [
+        275,
+        1366,
+        148,
+        475
+      ]
+    },
+    {
+      "unit": "f062-c02",
+      "frame": 62,
+      "image_sha256": "3025e93a4526bbe1306f1f4c48c113fa86102359cb8b2e3f7c657909be30d061",
+      "before": "冬术炭　白芍　五味　仝皮　肉蔻　九香虫",
+      "after": "冬术炭　白芍　五味　会皮　肉菓　九香虫",
+      "reason": "会下部為短橫與曲折筆，與第 048 幅同形。菓上有分離點畫，下見田與木，與第 063 幅同形，右下另有細寫煨。",
+      "image_bbox_xywh_approx": [
+        987,
+        1593,
+        165,
+        629
+      ]
+    },
+    {
+      "unit": "f063-c05",
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "before": "養胃芳香調氣、法仍候　明裁",
+      "after": "養胃芳香調氣、法仍候　自裁",
+      "reason": "裁上單字現縱向封框、短頂撇和框內筆畫，與自同形。此字前面保留較大空白。",
+      "image_bbox_xywh_approx": [
+        603,
+        1797,
+        143,
+        305
+      ]
+    },
+    {
+      "unit": "f063-c06",
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "before": "白术炭　煨肉蔻　車前　白芍　九香虫",
+      "after": "白术炭　煨肉菓　車前　白芍　九香虫",
+      "reason": "肉下菓上有離開下部的點畫，田木一體可見，與第 062 幅寫法相同。",
+      "image_bbox_xywh_approx": [
+        412,
+        1134,
+        166,
+        278
+      ]
+    },
+    {
+      "unit": "f065-c02",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "before": "脈形沉細總之因木旺土虛脾陽失健擬調肝理氣",
+      "after": "脈形沉細總之之木旺土虛脾陽失健擬調肝理氣",
+      "reason": "木以上可見連續兩個之形，第二字頭多一重筆，兩字下端均拉長收筆。",
+      "image_bbox_xywh_approx": [
+        1095,
+        956,
+        133,
+        325
+      ]
+    },
+    {
+      "unit": "f070-c03",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "before": "為怯損已成之候也炎暑在邇一水難支二火最深",
+      "after": "為怯損已成之候也炎暑在近一水難支二火最深",
+      "reason": "在下之字見走之長捺，內部為短撇及末筆豎折的斤形。",
+      "image_bbox_xywh_approx": [
+        899,
+        1644,
+        153,
+        250
+      ]
+    },
+    {
+      "unit": "f070-c06",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "before": "女貞子　川貝　知母　人中白",
+      "after": "女珍子　川貝　知母　人中白",
+      "reason": "女子之間左是王旁，右下有相連斜筆，右上見人形，照珍字。",
+      "image_bbox_xywh_approx": [
+        372,
+        536,
+        158,
+        314
+      ]
+    },
+    {
+      "unit": "f071-c01",
+      "frame": 71,
+      "image_sha256": "2f7254e6d8a38aaf1c10c90b0783f58828bee0e1fcc78e844e5373e02013ff20",
+      "before": "肝火熾盛內熱生痰冲入心胞迷悶不醒〔屢？〕作",
+      "after": "肝火熾盛內熱生痰冲入心胞迷悶不醒屢作",
+      "reason": "醒下和作上的字見尸上折，內部連寫後展開女形收筆。",
+      "image_bbox_xywh_approx": [
+        1237,
+        2351,
+        144,
+        190
+      ]
+    },
+    {
+      "unit": "f071-c07",
+      "frame": 71,
+      "image_sha256": "2f7254e6d8a38aaf1c10c90b0783f58828bee0e1fcc78e844e5373e02013ff20",
+      "before": "加　佛手柑一分",
+      "after": "加　佛手柑八分",
+      "reason": "柑下有左右分向的撇、捺，兩筆間有空隙，合八字形。",
+      "image_bbox_xywh_approx": [
+        141,
+        1383,
+        157,
+        319
+      ]
+    },
+    {
+      "unit": "f076-c06",
+      "frame": 76,
+      "image_sha256": "b349ff9b63a1847fe0d594a9651e1ebff27e5ab630031c170909973e6bd8dd9a",
+      "before": "加　鮮竹〔茹？〕　三分",
+      "after": "加　鮮竹茹　三分",
+      "reason": "「竹」下獨立一字，草頭下可分辨女旁和右側收筆，讀「茹」；藥量仍依原列。",
+      "image_bbox_xywh_approx": [
+        103,
+        1130,
+        177,
+        308
+      ]
+    },
+    {
+      "unit": "f077-c05",
+      "frame": 77,
+      "image_sha256": "460a1bfcf05d37983661acb4b1d977cdf0615f24dd112e13cc69fb9524c06581",
+      "before": "嫩前胡　廣藿　會更　淡豆豉",
+      "after": "嫩前胡　廣藿　會皮　淡豆豉",
+      "reason": "「會」下承接一字，筆從上方向左下轉折再向右出捺，為草寫「皮」，在「淡豆豉」之前。",
+      "image_bbox_xywh_approx": [
+        553,
+        1594,
+        172,
+        368
+      ]
+    },
+    {
+      "unit": "f086-c02",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "before": "脉形沉細舌色乏液此乃暑濕傷營脾土失",
+      "after": "脉形沉細舌色之液少乃暑濕傷營脾土失",
+      "reason": "「舌色」以下按順序可見之形點捺、「液」、「少」的分點斜筆與「乃」，各位置相連。",
+      "image_bbox_xywh_approx": [
+        1045,
+        924,
+        180,
+        801
+      ]
+    },
+    {
+      "unit": "f091-c07",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "before": "〔藿？〕〔香？〕〔白？〕",
+      "after": "鉤藤勾",
+      "reason": "左欄上段三個分明字形，第二字上部草頭及下部藤形，第三字外勾包內點；首字據鉤形讀「鉤」。",
+      "image_bbox_xywh_approx": [
+        124,
+        182,
+        181,
+        661
+      ]
+    },
+    {
+      "unit": "f091-c08",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "before": "加　天花〔粉？〕",
+      "after": "加　七液丹",
+      "reason": "「加」下首字為橫折鉤的「七」，中字見氵及夜形，末字有外折及橫筆，讀「丹」。",
+      "image_bbox_xywh_approx": [
+        25,
+        782,
+        168,
+        602
+      ]
+    },
+    {
+      "unit": "f098-c01",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "before": "寒迴之後濕濁未清肢痠疼痛胃納不宣脉",
+      "after": "寒熱之後濕濁未清肢痠疼痛胃納不宣脉",
+      "reason": "「寒」下字右側收勢及下方拖出的點筆與鄰幅099同起首「寒熱之後」的「熱」草形相合；字周未見迴形內框。",
+      "image_bbox_xywh_approx": [
+        1191,
+        284,
+        183,
+        388
+      ]
+    },
+    {
+      "unit": "f098-c03",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "before": "冬术炭　川斛　狗脊　赤茯苓",
+      "after": "冬术炭　川斷　狗脊　赤茯苓",
+      "reason": "「川」下字右側為斤的長垂筆，左側有疊折；和同幅末段「斛」形有別。",
+      "image_bbox_xywh_approx": [
+        874,
+        802,
+        168,
+        386
+      ]
+    },
+    {
+      "unit": "f098-c07",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "before": "心腎不交痰蒙清竅神不守舍悸不寐脉形沉滑",
+      "after": "心腎不交痰蒙清竅神不守舍心悸不寐脉形沉滑",
+      "reason": "「舍」字下方有獨立心形點與彎鉤，後面另有帶豎心旁的「悸」。",
+      "image_bbox_xywh_approx": [
+        443,
+        1531,
+        175,
+        592
+      ]
+    },
+    {
+      "unit": "f100-c09",
+      "frame": 100,
+      "image_sha256": "b11b2f8eba0ec8dc4a690309c60f6e60a525fdce6b4e00df0fd1f5a46465b59c",
+      "before": "研末做丸冲服",
+      "after": "研末飯丸冲服",
+      "reason": "「末」下字左側為食旁，右側有反的折捺，細欄接「丸」和「冲服」。",
+      "image_bbox_xywh_approx": [
+        643,
+        1945,
+        120,
+        422
+      ]
+    },
+    {
+      "unit": "f103-c07",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "before": "須宜疏化為主",
+      "after": "次宜疏化為主",
+      "reason": "欄首形左短點、右欠形，下緊接「宜」，原讀「須」未見右頁旁結構。",
+      "image_bbox_xywh_approx": [
+        256,
+        649,
+        177,
+        315
+      ]
+    },
+    {
+      "unit": "f105-c03",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "before": "暑濕少減胸膈未清須兼脹疼再守前法",
+      "after": "暑濕少減胸膈未清須兼腹疼再守前法",
+      "reason": "「疼」上一字左月旁，右半上有短折並在下方交筆，作「腹」。",
+      "image_bbox_xywh_approx": [
+        917,
+        1683,
+        161,
+        197
+      ]
+    },
+    {
+      "unit": "f107-c01",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "before": "伏暑感寒而發潮熱薄汗不解脈形弦細而數舌色",
+      "after": "伏暑感寒而發潮熱得汗不解脈形弦細而數舌色",
+      "reason": "「汗」上字可見彳旁及得右下寸形。欄末「色／毛」未定。",
+      "image_bbox_xywh_approx": [
+        1213,
+        1419,
+        180,
+        1389
+      ]
+    },
+    {
+      "unit": "f108-c01",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "before": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘡疹滿布",
+      "after": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘄疹滿布",
+      "reason": "「疹」上字疒旁的右半為昔形，上緣交橫、下有扁日，按字形讀「瘄」。",
+      "image_bbox_xywh_approx": [
+        1381,
+        2318,
+        165,
+        293
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "unit_id": "f008-c02",
+      "frame": 8,
+      "image_sha256": "a7fd5e9197d114beb1468b3cd8f5ea9f737be1b29c3f86d1fe21dc3bfd421548",
+      "initial_column": "加　乾佛手　乾棗肚",
+      "independent_column": "加 乾佛手 乾柿肚",
+      "candidates": [
+        "乾棗肚",
+        "乾柿肚"
+      ],
+      "image_evidence": "中間字筆畫擠在一條中豎，底部另有點畫，棗、柿候選仍需同手寫法。",
+      "bbox_approx_xywh_px": [
+        965,
+        1190,
+        180,
+        400
+      ]
+    },
+    {
+      "unit_id": "f009-c07",
+      "frame": 9,
+      "image_sha256": "b96cac17752f775fa9aa6fc3db21ba7e205a5343d7e3beb5f783e1bead69c46d",
+      "initial_column": "淡吳萸　白芍　肉果　谷芽　九香虫　丁香",
+      "independent_column": "淡吳萸 白芍 肉茱 谷芽 九香虫 丁香",
+      "candidates": [
+        "肉果",
+        "肉茱"
+      ],
+      "image_evidence": "下一字上部點撇與木式下撇捺可見，中段連墨，未能獨定草頭或果類結構。",
+      "bbox_approx_xywh_px": [
+        270,
+        1190,
+        170,
+        320
+      ]
+    },
+    {
+      "unit_id": "f012-c05",
+      "frame": 12,
+      "image_sha256": "6dc7b47c1708ab3a0343d9d1ce523d6743f7ec4618cb087da598c689188d4d7a",
+      "initial_column": "服藥後諸恙頗減胃納加餐惟腰脊痠痛納谷痞滿",
+      "independent_column": "服藥後諸恙頓減胃納加餐惟腰脊痠痛納谷痞滿",
+      "candidates": [
+        "頗減",
+        "頓減"
+      ],
+      "image_evidence": "右側頁字較明確，左側皮／屯連筆難分。024 及 046 同組均宜保留此問題。",
+      "bbox_approx_xywh_px": [
+        350,
+        1060,
+        180,
+        175
+      ]
+    },
+    {
+      "unit_id": "f016-c04",
+      "frame": 16,
+      "image_sha256": "d9a03ffaa84148e1232863e5ba2df510a0c61541df69fca93e7bfca3ea944b74",
+      "initial_column": "霍斛　白芍　雲神　鬱金　法夏　手柑",
+      "independent_column": "霍斛 白芍 雲神 蒂壳 法夏 手柑",
+      "candidates": [
+        "鬱金",
+        "蔕壳",
+        "其他"
+      ],
+      "image_evidence": "第一字上部似艹且下有長曲線，第二字一長斜繞鉤，與稿中鬱金字樣的差異需再核手寫異體。",
+      "bbox_approx_xywh_px": [
+        656,
+        1450,
+        176,
+        302
+      ]
+    },
+    {
+      "unit_id": "f018-c03",
+      "frame": 18,
+      "image_sha256": "4e10415b5f0c58f86f39d7d4e2ea482a8c88b6757f0c3e3d4adb17d1db22d5a8",
+      "initial_column": "肝鬱營虛胸痞脘脹心泛嘔噁胃納不宣脉形沉弦擬歛",
+      "independent_column": "肝鬱營虛胸痞脘脹心泛嘔噫胃納不宣脉形沉弦擬歛",
+      "candidates": [
+        "嘔噁",
+        "嘔噫"
+      ],
+      "image_evidence": "第二字右上密合，下部心狀筆可見，意、惡的中段未能獨定。",
+      "bbox_approx_xywh_px": [
+        870,
+        1410,
+        150,
+        240
+      ]
+    },
+    {
+      "unit_id": "f020-c08",
+      "frame": 20,
+      "image_sha256": "055b56985021116af593a246ec8d608c2040db584bead9f661eaf0d97694ae04",
+      "initial_column": "法夏　枳殼　⟦玄艾／□艾⟧　茯苓　⟦橘柳／□柳⟧　帶□　薏仁",
+      "independent_column": "法夏 枳殻 青皮 猪苓 檳榔 鬱金 薏仁",
+      "candidates": [
+        "玄艾／□艾、橘柳／□柳、帶□",
+        "青皮、檳榔、鬱金"
+      ],
+      "image_evidence": "藥欄草書高度連筆，原讀有青皮、檳榔、鬱金候選，三組擬再採同手字樣對讀。猪苓已另列局部訂正。",
+      "bbox_approx_xywh_px": [
+        65,
+        930,
+        170,
+        1280
+      ]
+    },
+    {
+      "unit_id": "f021-c05",
+      "frame": 21,
+      "image_sha256": "d9004520c8c26748d272491bba5ad4148985b7c9862128432255f9f5b10f4e51",
+      "initial_column": "焦山梔　⟦滴／□⟧貝　杏仁　橘紅",
+      "independent_column": "焦山梔 象貝 杏仁 橘紅",
+      "candidates": [
+        "滴貝",
+        "象貝",
+        "其他"
+      ],
+      "image_evidence": "上字左緣有斷筆似水旁，下部與下一貝分界緊湊，象與其他可能形未獨定。",
+      "bbox_approx_xywh_px": [
+        565,
+        760,
+        146,
+        235
+      ]
+    },
+    {
+      "unit_id": "f027-c02",
+      "frame": 27,
+      "image_sha256": "687c6140f320bf24b3d066e4fd64a6eea7e76d428208c638cd80b8dba57191bc",
+      "initial_column": "虧中無砥柱惟恐虛陽上炎口疳咽痛之防調治之",
+      "independent_column": "虧中無砥柱惟恐虛陽上炎口痺咽痛之防調治之",
+      "candidates": [
+        "口疳",
+        "口痺",
+        "其他"
+      ],
+      "image_evidence": "右半可見縱筆交兩橫，內部中線黏墨，疳、痺及其他疒部字待核。",
+      "bbox_approx_xywh_px": [
+        1046,
+        1840,
+        155,
+        115
+      ]
+    },
+    {
+      "unit_id": "f038-c03",
+      "frame": 38,
+      "image_sha256": "4283786ee1f4706618bc07f8be361760afceb4f552f037bfe98706e86928988d",
+      "initial_column": "川朴花〔量記？〕　川萆薢〔量記？〕　加生谷芽三〔量記？〕　炒澤泻〔量記？〕　炒条参〔量記？〕",
+      "independent_column": "川朴花五分 川楝肉五分 加 生谷芽三文 炒澤瀉一文 炒条芩五分",
+      "candidates": [
+        "炒条参",
+        "炒条芩"
+      ],
+      "image_evidence": "「条」下字中央可見撇捺會合，草頭處與上字間距很小，下部向左下長撇。保留參、芩兩讀。",
+      "bbox_approx_xywh_px": [
+        803,
+        2350,
+        185,
+        360
+      ]
+    },
+    {
+      "unit_id": "f038-c03",
+      "frame": 38,
+      "image_sha256": "4283786ee1f4706618bc07f8be361760afceb4f552f037bfe98706e86928988d",
+      "initial_column": "川朴花〔量記？〕　川萆薢〔量記？〕　加生谷芽三〔量記？〕　炒澤泻〔量記？〕　炒条参〔量記？〕",
+      "independent_column": "川朴花五分 川楝肉五分 加 生谷芽三文 炒澤瀉一文 炒条芩五分",
+      "candidates": [
+        "川萆薢",
+        "川楝肉",
+        "其他"
+      ],
+      "image_evidence": "「川」下所見較像草頭一簇與下垂形，第二位置與旁邊「切」相疊，初錄及原讀藥名候選均保留。",
+      "bbox_approx_xywh_px": [
+        800,
+        1010,
+        170,
+        385
+      ]
+    },
+    {
+      "unit_id": "f039-c05",
+      "frame": 39,
+      "image_sha256": "5a9774dcf67e40f79e7df91cb4beff78049cf074c4a4224fc4441a7765531ea3",
+      "initial_column": "加　枇杷葉　藕節　茅〔菜？〕花",
+      "independent_column": "加 枇杷葉 藕節 茅茹根",
+      "candidates": [
+        "茅〔菜？〕花",
+        "茅茹根"
+      ],
+      "image_evidence": "末字左部木旁式豎筆可見，右部筆勢與根類字近。中間複筆無法確立，整項保留候選。",
+      "bbox_approx_xywh_px": [
+        578,
+        1511,
+        144,
+        349
+      ]
+    },
+    {
+      "unit_id": "f042-c05",
+      "frame": 42,
+      "image_sha256": "b9dfd11a22ed9d51970978b7f694a13575eb39383f87962a49c3ba25192aa6ea",
+      "initial_column": "濕熱傷陰離火上熖痰中帶血便濁滑精脉形虛數擬養",
+      "independent_column": "濕熱傷陰離火上熾痰中帶血便濁滑精脉形虛數擬養",
+      "candidates": [
+        "熖",
+        "熾",
+        "炎",
+        "其他"
+      ],
+      "image_evidence": "本字右側有加筆，正欄濃墨和旁寫未能建立先後。",
+      "bbox_approx_xywh_px": [
+        546,
+        1070,
+        166,
+        134
+      ]
+    },
+    {
+      "unit_id": "f042-c07",
+      "frame": 42,
+      "image_sha256": "b9dfd11a22ed9d51970978b7f694a13575eb39383f87962a49c3ba25192aa6ea",
+      "initial_column": "北沙参　龜版　蛤殼　石决　川貝　紅棗　茅〔藥？〕花",
+      "independent_column": "北沙參 龜版 蛤殻 石决 川貝 紅棗 茅藥根",
+      "candidates": [
+        "茅〔藥？〕花",
+        "茅藥根",
+        "其他"
+      ],
+      "image_evidence": "末字有木旁式的豎撇與右部連環，但近與 033「菩提根」不同。仍待辨具體藥項。",
+      "bbox_approx_xywh_px": [
+        245,
+        2330,
+        160,
+        350
+      ]
+    },
+    {
+      "unit_id": "f042-c08",
+      "frame": 42,
+      "image_sha256": "b9dfd11a22ed9d51970978b7f694a13575eb39383f87962a49c3ba25192aa6ea",
+      "initial_column": "珠兒参　山梔　知母　生地　〔藕？〕　藕節",
+      "independent_column": "珠兒參 山梔 知母 生地 蟬衣 藕節",
+      "candidates": [
+        "藕",
+        "蟬衣",
+        "其他"
+      ],
+      "image_evidence": "同位置連墨呈上部草頭式、下部封口回鉤，未能確定是單字或兩字合筆。",
+      "bbox_approx_xywh_px": [
+        55,
+        1705,
+        176,
+        235
+      ]
+    },
+    {
+      "unit_id": "f044-c05",
+      "frame": 44,
+      "image_sha256": "e1cad1ca02e31cd7eee07c0001eebba1b2ec058e56bf40f7c7a8f6f0c0d41cad",
+      "initial_column": "淡吳萸　烏〔㮐？〕　㑹皮　山梔　白芍　九香虫",
+      "independent_column": "淡吳萸 烏𣏌 会皮 烏梅 白芍 九香虫",
+      "candidates": [
+        "山梔",
+        "烏梅",
+        "其他"
+      ],
+      "image_evidence": "首字僅三組離墨，第二個字的位置上半偏細，保留初錄和獨立讀法。",
+      "bbox_approx_xywh_px": [
+        544,
+        1400,
+        148,
+        251
+      ]
+    },
+    {
+      "unit_id": "f047-c08",
+      "frame": 47,
+      "image_sha256": "d37d55cee68a78040e2e95460af021cd136cea1cfd1eca9e07705a2ebeca5a37",
+      "initial_column": "瓦楞子　法夏　青皮　大腹皮　宣香附",
+      "independent_column": "瓦楞子 法夏 青皮 大腹皮 製香附",
+      "candidates": [
+        "宣香附",
+        "製香附"
+      ],
+      "image_evidence": "首字草體中段重墨，上短撇與下部曲折可見，暫無足夠依據判用字。",
+      "bbox_approx_xywh_px": [
+        205,
+        1790,
+        180,
+        355
+      ]
+    },
+    {
+      "unit": "f010-c02",
+      "frame": 10,
+      "image_sha256": "cc33148e4ed083d33b13d08faca120c0ab15bb6af4b9883c6f3afa9c4fe1629a",
+      "before": "冬朮炭　白芍　炒〔𧰼？〕　兎絲　〔川？〕〔斛？〕",
+      "reason": "原圖第二字左部與字尾交疊，牡蠣保留候選，先保留初錄欄文。",
+      "image_bbox_xywh_approx": [
+        971,
+        1255,
+        145,
+        245
+      ],
+      "candidate": "冬朮炭　白芍　牡蠣　兎絲　〔川？〕〔斛？〕"
+    },
+    {
+      "unit": "f045-c08",
+      "frame": 45,
+      "image_sha256": "1568f77e1aa9026c2b8daa72f86613de08af9ba459d8f2932e2bd3e68862849b",
+      "before": "半夏　枳殼　青皮　玉金　兵榔　蔻仁",
+      "reason": "艸頭下部草寫相連，薏與蔻仍待同手互勘。",
+      "image_bbox_xywh_approx": [
+        100,
+        1920,
+        210,
+        235
+      ],
+      "candidate": "半夏　枳殼　青皮　玉金　兵榔　薏仁"
+    },
+    {
+      "unit_id": "f048-c03",
+      "frame": 48,
+      "image_sha256": "477f544c52efc6aec5aeb3d5a4e8af9562c68d58c96a80d408c23e446b23c0aa",
+      "initial_column": "冬虫夏艸　仝皮　羚羊　蘇子　赭石",
+      "independent_column": "冬虫夏艸　会皮　羚羊　薏子　赭石",
+      "candidates": [
+        "蘇子",
+        "薏子"
+      ],
+      "image_evidence": "草頭下左右均有密集相疊筆畫，內部構形存疑。",
+      "bbox_approx_xywh_px": [
+        866,
+        1430,
+        131,
+        264
+      ]
+    },
+    {
+      "unit_id": "f050-c03",
+      "frame": 50,
+      "image_sha256": "b5ea2cbe73f58eacccdb2e0bd810e8b555f721912e8c6fbf82190decfe290b20",
+      "initial_column": "江枳壳　法夏　延胡　烏藥　蔻壳",
+      "independent_column": "江枳壳　法夏　延胡　烏藥　蒌壳",
+      "candidates": [
+        "蔻壳",
+        "蒌壳"
+      ],
+      "image_evidence": "草頭下部墨筆連成團，與本幅右側字不相接。",
+      "bbox_approx_xywh_px": [
+        831,
+        1980,
+        149,
+        366
+      ]
+    },
+    {
+      "unit_id": "f052-c02",
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "initial_column": "荆芥　前胡　枳壳　鬱金　丹参　全蔞",
+      "independent_column": "薄荷　前胡　枳壳　鬱金　丹參　全蔞",
+      "candidates": [
+        "荆芥",
+        "薄荷"
+      ],
+      "image_evidence": "二字草頭見形，其下分筆繁密，第二字下折筆與上部相連。",
+      "bbox_approx_xywh_px": [
+        960,
+        450,
+        165,
+        370
+      ]
+    },
+    {
+      "unit_id": "f052-c03",
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "initial_column": "牛蒡　魁蛤　澤蘭　法夏　延胡",
+      "independent_column": "牛𥘅　魁蛤　澤蘭　法夏　延胡",
+      "candidates": [
+        "蒡",
+        "𥘅"
+      ],
+      "image_evidence": "草寫下部撇捺向左、右展開，上部因濃墨相接。",
+      "bbox_approx_xywh_px": [
+        796,
+        464,
+        151,
+        330
+      ]
+    },
+    {
+      "unit_id": "f052-c04",
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "initial_column": "降香　茯白",
+      "independent_column": "降香　薤白",
+      "candidates": [
+        "茯",
+        "薤"
+      ],
+      "image_evidence": "下字白形可辨，上一字中段濃墨攢合，草頭以下未能逐筆定形。",
+      "bbox_approx_xywh_px": [
+        641,
+        981,
+        140,
+        277
+      ]
+    },
+    {
+      "unit_id": "f052-c05",
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "initial_column": "小兒出痘",
+      "independent_column": "小兒出痰〔痘？〕",
+      "candidates": [
+        "痘",
+        "痰",
+        "疫"
+      ],
+      "image_evidence": "左上斜筆和下部大幅撇捺可見，內部相交處濃墨。",
+      "bbox_approx_xywh_px": [
+        473,
+        853,
+        134,
+        281
+      ]
+    },
+    {
+      "unit_id": "f052-c06",
+      "frame": 52,
+      "image_sha256": "f690c8bafcd2461a9209921797a8c4ebc609dff6ab11a80e0504027d37312a03",
+      "initial_column": "〔陳？〕〔米？〕更　使君子　廣木香",
+      "independent_column": "淡吳萸　使君子　廣木香",
+      "candidates": [
+        "陳米更",
+        "淡吳萸"
+      ],
+      "image_evidence": "第二字內見上框與下端分撇捺，首末字旁筆與中心交疊。",
+      "bbox_approx_xywh_px": [
+        308,
+        446,
+        174,
+        664
+      ]
+    },
+    {
+      "unit_id": "f053-c07",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "initial_column": "瘤痰之症久纏未痊骨蒸之熱尚未清楚脈形虛數",
+      "independent_column": "瘤疰之症久纏未痊骨蒸之熱尚未清楚脉形虚數",
+      "candidates": [
+        "痰",
+        "疰",
+        "疫"
+      ],
+      "image_evidence": "疒上覆，內部有交接而分向的下筆，待與同手之 疫、疾 交叉核。",
+      "bbox_approx_xywh_px": [
+        296,
+        591,
+        156,
+        198
+      ]
+    },
+    {
+      "unit_id": "f053-c08",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "initial_column": "總屬氣陰大虧緩功緩効耳",
+      "independent_column": "總屬氣陰大虧緩功緩效耳",
+      "candidates": [
+        "徐〔天？〕直〔□〕",
+        "雄石英",
+        "徐石直"
+      ],
+      "image_evidence": "中筆近石形，欄末墨塊中有垂直折筆，起筆上緣近缺角，和正文不接。",
+      "bbox_approx_xywh_px": [
+        243,
+        66,
+        166,
+        388
+      ]
+    },
+    {
+      "unit_id": "f053-c08",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "initial_column": "總屬氣陰大虧緩功緩効耳",
+      "independent_column": "總屬氣陰大虧緩功緩效耳",
+      "candidates": [
+        "加毫銀針",
+        "加羗活升"
+      ],
+      "image_evidence": "可見加及末端針一類細縱筆，多字連疊，中間筆畫和線框相接。",
+      "bbox_approx_xywh_px": [
+        234,
+        1161,
+        96,
+        273
+      ]
+    },
+    {
+      "unit_id": "f054-c08",
+      "frame": 54,
+      "image_sha256": "2015bb28a0a68694a0cfa6231fc2d5fea29ee7f583ef0e383ab29269107fc3e7",
+      "initial_column": "加　佐金丸三分　冬桑叶　廣鬱金",
+      "independent_column": "加佐金丸三分　冬桑叶　方〔疑〕廣鬱金",
+      "candidates": [
+        "方",
+        "牽絲或拖痕"
+      ],
+      "image_evidence": "叶字長豎末有磨損與淡墨，這一段另見勾形，與紙面橫擦疊合，字界未定。",
+      "bbox_approx_xywh_px": [
+        55,
+        1920,
+        129,
+        281
+      ]
+    },
+    {
+      "unit_id": "f057-c01",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "initial_column": "寒邪外感脇痛背疼雖不寒熱常覺形寒脈來沉緊",
+      "independent_column": "寒邪外感腸痛背疼雖不寒熱常覺形寒脉來沉滯",
+      "candidates": [
+        "緊",
+        "滯",
+        "滑"
+      ],
+      "image_evidence": "潦草末字左右的短筆與半環交接，下筆與紙折邊相近。",
+      "bbox_approx_xywh_px": [
+        1225,
+        2530,
+        155,
+        133
+      ]
+    },
+    {
+      "unit_id": "f057-c03",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "initial_column": "佐以調氣一法〔些否候？〕　寶齋兄酌而用之",
+      "independent_column": "佐以調氣一法俟舌候實象見酌而用之",
+      "candidates": [
+        "些否候",
+        "俟舌候"
+      ],
+      "image_evidence": "末字人旁與右側舒展筆形可見，前二字密合。其下空白後續寫寶齋兄。",
+      "bbox_approx_xywh_px": [
+        916,
+        1164,
+        147,
+        504
+      ]
+    },
+    {
+      "unit_id": "f057-c04",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "initial_column": "法半夏　蘇梗　枳壳　桂枝　杏肉",
+      "independent_column": "江半夏　蘇梗　枳壳　桂枝　查肉",
+      "candidates": [
+        "杏肉",
+        "查肉"
+      ],
+      "image_evidence": "肉上字上部近木形，下有一落筆及疊接橫，底部是否具有兩橫仍待核。",
+      "bbox_approx_xywh_px": [
+        742,
+        1898,
+        158,
+        378
+      ]
+    },
+    {
+      "unit_id": "f057-c05",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "initial_column": "〔依？〕蔞全　羌活　澤瀉　秦艽",
+      "independent_column": "冬薑參〔疑，連寫〕　羌活　澤瀉　秦艽",
+      "candidates": [
+        "依蔞全",
+        "冬薑參"
+      ],
+      "image_evidence": "變細的墨線在首組內相接，分界及下部曲鉤難定。",
+      "bbox_approx_xywh_px": [
+        603,
+        414,
+        153,
+        542
+      ]
+    },
+    {
+      "unit_id": "f058-c01",
+      "frame": 58,
+      "image_sha256": "ca190dbc50799848d4319bfc215df01501ea180e49f24014c100b49fb0945134",
+      "initial_column": "花杏肉　萊菔　蘇薄荷　嫩桂枝",
+      "independent_column": "花春肉〔疑〕　萊菔　蘇薄荷　嫩桂枝",
+      "candidates": [
+        "杏",
+        "杳",
+        "春"
+      ],
+      "image_evidence": "上部見連續橫筆，下緣墨濃，框內是否另有短橫尚難分。",
+      "bbox_approx_xywh_px": [
+        1156,
+        618,
+        139,
+        324
+      ]
+    },
+    {
+      "unit_id": "f058-c02",
+      "frame": 58,
+      "image_sha256": "ca190dbc50799848d4319bfc215df01501ea180e49f24014c100b49fb0945134",
+      "initial_column": "加　薑汁炒〔竹二青？〕　佩蘭叶",
+      "independent_column": "加　薑汁炒竹二青　佩蘭叶",
+      "candidates": [
+        "竹二青"
+      ],
+      "image_evidence": "其中三筆壓在同一縱軸，與旁欄透墨有交疊，保留讀法為候選。",
+      "bbox_approx_xywh_px": [
+        972,
+        1050,
+        167,
+        655
+      ]
+    },
+    {
+      "unit_id": "f058-c06",
+      "frame": 58,
+      "image_sha256": "ca190dbc50799848d4319bfc215df01501ea180e49f24014c100b49fb0945134",
+      "initial_column": "五茄皮　姜衣　車前",
+      "independent_column": "五茄皮　茯衣　車前",
+      "candidates": [
+        "姜",
+        "茯"
+      ],
+      "image_evidence": "前字上半有短點及兩疊橫，末筆內折偏長，左上另有透字。",
+      "bbox_approx_xywh_px": [
+        378,
+        921,
+        140,
+        280
+      ]
+    },
+    {
+      "unit_id": "f062-c05",
+      "frame": 62,
+      "image_sha256": "3025e93a4526bbe1306f1f4c48c113fa86102359cb8b2e3f7c657909be30d061",
+      "initial_column": "元虛風動浮陽上炎口糜舌絳神識模糊勢屬危途",
+      "independent_column": "元虚風動浮陽上茂口糜舌絳神識模論勢屬危途",
+      "candidates": [
+        "炎",
+        "茂"
+      ],
+      "image_evidence": "可見兩短橫及近口形筆，下部交叉，左右邊墨散，構件難分。",
+      "bbox_approx_xywh_px": [
+        534,
+        1220,
+        131,
+        219
+      ]
+    },
+    {
+      "unit_id": "f063-c03",
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "initial_column": "泄瀉未減氣陷不升胃納加餐肢痠神倦脈形沉軟",
+      "independent_column": "泄瀉未減氣陷不升胃納加餐肢疲神倦脉形沉軟",
+      "candidates": [
+        "痠",
+        "疲"
+      ],
+      "image_evidence": "下半黑筆向左回接，中間的連墨遮住疒內筆序。",
+      "bbox_approx_xywh_px": [
+        916,
+        1735,
+        146,
+        220
+      ]
+    },
+    {
+      "unit_id": "f063-c05",
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "initial_column": "養胃芳香調氣、法仍候　明裁",
+      "independent_column": "養胃芳香調氣一法仍俟　自裁",
+      "candidates": [
+        "候",
+        "俟"
+      ],
+      "image_evidence": "仍下字左為人旁，右部小框與上方短筆連寫，暫保初讀。",
+      "bbox_approx_xywh_px": [
+        596,
+        1480,
+        158,
+        287
+      ]
+    },
+    {
+      "unit_id": "f065-c01",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "initial_column": "痢痊之後脾土不足乘中侮胃心泛嘔惡納穀則嘔",
+      "independent_column": "痢症之後脾土不足乘中侮胃心泛嘔噦納穀則嘔",
+      "candidates": [
+        "痊",
+        "症"
+      ],
+      "image_evidence": "疒內草寫橫線交疊，與第 066 幅同形，並參第 053 幅「未痊」但仍保留疑讀。",
+      "bbox_approx_xywh_px": [
+        1245,
+        594,
+        134,
+        168
+      ]
+    },
+    {
+      "unit_id": "f065-c04",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "initial_column": "霍石斛　綠萼梅　白芍　烏藥",
+      "independent_column": "霍石斛　綠萼梅　白芍　烏葯",
+      "candidates": [
+        "肅擬解肌",
+        "〔□〕擬解肌"
+      ],
+      "image_evidence": "窄欄首字密合，影像可分辨後面幾字，但首字縱線無法分筆。",
+      "bbox_approx_xywh_px": [
+        397,
+        106,
+        95,
+        353
+      ]
+    },
+    {
+      "unit_id": "f065-c07",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "initial_column": "軟擬理邪和胃為先",
+      "independent_column": "軟擬理邪和胃為先",
+      "candidates": [
+        "杏肉",
+        "查肉"
+      ],
+      "image_evidence": "右側小欄末組，首字上部有淡點，下部與次字間距極短。",
+      "bbox_approx_xywh_px": [
+        128,
+        255,
+        113,
+        196
+      ]
+    },
+    {
+      "unit_id": "f065-c08",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "initial_column": "霍石斛　九香虫　枳殻　蘇梗　大腹皮",
+      "independent_column": "霍石斛　九香虫　枳殻　蘇梗　大腹皮",
+      "candidates": [
+        "枳殻薑金",
+        "枳殻鬱金"
+      ],
+      "image_evidence": "頂端第一字與折缺相接使左部不全，第二組首字上密下略有長橫。",
+      "bbox_approx_xywh_px": [
+        43,
+        80,
+        108,
+        420
+      ]
+    },
+    {
+      "unit_id": "f066-c01",
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "initial_column": "赤茯苓",
+      "independent_column": "赤茯苓",
+      "candidates": [
+        "蒼芩／蒼苓／志芩／姜",
+        "去苓／虚勇／去苓／義"
+      ],
+      "image_evidence": "眉端四組與正文分離，三短欄上部密寫，左一孤字較大，並排關係可見，各字完整讀法仍有歧。",
+      "bbox_approx_xywh_px": [
+        963,
+        117,
+        413,
+        331
+      ]
+    },
+    {
+      "unit_id": "f066-c03",
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "initial_column": "脈形沉軟總由痢痊之脾脾土失權引動肝陽木來",
+      "independent_column": "脉形沉軟總由痢症之脾脾土失權引動肝陽木来",
+      "candidates": [
+        "痢痊之脾脾土",
+        "痢症之脾脾土"
+      ],
+      "image_evidence": "痢下疒內像兩層橫畫，見 065 同形。「之」後現兩個脾形，保留原次序。",
+      "bbox_approx_xywh_px": [
+        852,
+        1164,
+        170,
+        729
+      ]
+    },
+    {
+      "unit_id": "f066-c07",
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "initial_column": "棕云曲",
+      "independent_column": "揀云田〔疑〕",
+      "candidates": [
+        "棕云曲",
+        "揀云田"
+      ],
+      "image_evidence": "首字右部上方細筆交疊，末字的框內見縱線而有短筆越框。",
+      "bbox_approx_xywh_px": [
+        203,
+        489,
+        165,
+        659
+      ]
+    },
+    {
+      "unit_id": "f066-c08",
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "initial_column": "加　黃佛手　白檀香",
+      "independent_column": "加　券佛手〔首字疑〕　白檀条",
+      "candidates": [
+        "香",
+        "条",
+        "末"
+      ],
+      "image_evidence": "白檀的末字用濃墨連寫，末筆拉開，形近數字。",
+      "bbox_approx_xywh_px": [
+        58,
+        1520,
+        162,
+        470
+      ]
+    },
+    {
+      "unit_id": "f067-c03",
+      "frame": 67,
+      "image_sha256": "79a68616ac6395fbd7e85bcef98bd4ad56c7b37c0c0f1e4a55a8d7dea1dc55a7",
+      "initial_column": "炒枯术　雲苓　會皮　大腹皮",
+      "independent_column": "炒白术　雲苓　会皮　大腹皮",
+      "candidates": [
+        "枯",
+        "白"
+      ],
+      "image_evidence": "字樣狹，左半細筆與右部連墨，難定其間部件。",
+      "bbox_approx_xywh_px": [
+        914,
+        545,
+        159,
+        283
+      ]
+    },
+    {
+      "unit_id": "f068-c07",
+      "frame": 68,
+      "image_sha256": "8587a9ff9841dda46ea959055009c44e68dea844eaca777db6434649b1eb46bd",
+      "initial_column": "右體陰虧火壯　形體濕阻火衰　〔叶？〕〔□〕改",
+      "independent_column": "石體陰亏火壮　舌體濕阻火衰　可少改〔整欄草疑〕",
+      "candidates": [
+        "右體陰虧火壯／形體濕阻火衰／〔叶？〕〔□〕改",
+        "石體陰虧火壯／舌體濕阻火衰／可少改"
+      ],
+      "image_evidence": "另筆較細，三節間留空，首筆與末三筆較淡，未能確定其與右側診案或藥欄的關聯。",
+      "bbox_approx_xywh_px": [
+        144,
+        385,
+        187,
+        2165
+      ]
+    },
+    {
+      "unit_id": "f070-c01",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "initial_column": "久嗽失音五心煩熱形肉消瘦兩手脈細軟短數乏",
+      "independent_column": "久嗽失音五心煩熱形肉消瘦兩手脉細軟短數無",
+      "candidates": [
+        "乏",
+        "無"
+      ],
+      "image_evidence": "數下字底出橫長收筆，上部近無的短寫，但並排描筆讓乏和無難以按原形分判。",
+      "bbox_approx_xywh_px": [
+        1209,
+        2505,
+        146,
+        296
+      ]
+    },
+    {
+      "unit_id": "f070-c04",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "initial_column": "重益陰保肺補土生金一法候　政",
+      "independent_column": "量益陰保肺補土生金一法候　政",
+      "candidates": [
+        "重",
+        "量"
+      ],
+      "image_evidence": "首字下部是里形，頂端長橫下的小框與中層墨線幾相接。",
+      "bbox_approx_xywh_px": [
+        717,
+        327,
+        180,
+        323
+      ]
+    },
+    {
+      "unit_id": "f070-c08",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "initial_column": "加　真珠粉二分　枇杷葉一酒盃冲服",
+      "independent_column": "加　真珠粉二分　枇杷葉一酒盃冲服",
+      "candidates": [
+        "露附枇杷葉",
+        "獨立露字，後接語的位置不定"
+      ],
+      "image_evidence": "露在右側，餘字為正文列線落筆，缺分隔符號可直接確定掛接。",
+      "bbox_approx_xywh_px": [
+        145,
+        1780,
+        205,
+        960
+      ]
+    },
+    {
+      "unit_id": "f071-c02",
+      "frame": 71,
+      "image_sha256": "2f7254e6d8a38aaf1c10c90b0783f58828bee0e1fcc78e844e5373e02013ff20",
+      "initial_column": "成〔痼？〕右脈滑大而實右脈弦而且數擬滌痰抑",
+      "independent_column": "成癇右脉滑大而實右脉弦而且數擬滌痰抑",
+      "candidates": [
+        "痼",
+        "癇",
+        "瘋"
+      ],
+      "image_evidence": "疒下內有深濃框形及少數細斜筆，部件未足以確定。",
+      "bbox_approx_xywh_px": [
+        1061,
+        523,
+        159,
+        220
+      ]
+    },
+    {
+      "unit": "f055-c02",
+      "frame": 55,
+      "image_sha256": "33cd4a4da202dd5fb1a29a1e9c48d7a637c9c72c31e8de277174b76092a92727",
+      "before": "此方　朱少邨診",
+      "reason": "人名末字右阝清楚，左部屯與有仍須同手互勘。",
+      "image_bbox_xywh_approx": [
+        1099,
+        1018,
+        149,
+        219
+      ],
+      "candidate": "此方　朱少郁診"
+    },
+    {
+      "unit": "f066-c06",
+      "frame": 66,
+      "image_sha256": "8677046687f29dcf2811b765f58261008d8725231f46dc6eeebbf7f79b7796fc",
+      "before": "綠梅萼　木香　白芍　炙谷芽　霍石斛",
+      "reason": "上半連筆，焦字下部的點筆無法定讀。",
+      "image_bbox_xywh_approx": [
+        377,
+        1605,
+        145,
+        295
+      ],
+      "candidate": "綠梅萼　木香　白芍　焦谷芽　霍石斛"
+    },
+    {
+      "unit_id": "f073-c04",
+      "frame": 73,
+      "image_sha256": "8469670e07456215062016731f9b1e4489a598cb779e6c3aa719636717cd6207",
+      "initial_column": "全香附　烏〔㮐？〕　會皮　廣木香",
+      "sealed_column": "全香附　烏藥　會皮　廣木香",
+      "retained_column": "全香附　烏〔㮐？〕　會皮　廣木香",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        670,
+        436,
+        118,
+        1974
+      ]
+    },
+    {
+      "unit_id": "f074-c03",
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "initial_column": "而致倦怠乏力食難多進也診得細小脉弦細虛數",
+      "sealed_column": "而致倦怠乏力食難多進也診得脈手脈弦細虛數",
+      "retained_column": "而致倦怠乏力食難多進也診得細小脉弦細虛數",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        919,
+        444,
+        119,
+        2257
+      ]
+    },
+    {
+      "unit_id": "f074-c04",
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "initial_column": "失神擬益陰墜腎扶中實脾法主之",
+      "sealed_column": "無神擬益陰堅腎扶中實脾法主之",
+      "retained_column": "失神擬益陰墜腎扶中實脾法主之",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        753,
+        446,
+        118,
+        1758
+      ]
+    },
+    {
+      "unit_id": "f074-c07",
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "initial_column": "〔杜？〕車前　丹皮",
+      "sealed_column": "杜車前　丹皮",
+      "retained_column": "〔杜？〕車前　丹皮",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        242,
+        471,
+        118,
+        830
+      ]
+    },
+    {
+      "unit_id": "f074-c08",
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "initial_column": "加　参三七　五分　〔第？〕〔柒？〕瓜汁去心冲服",
+      "sealed_column": "加參三七五分　藕節取汁去心沖服",
+      "retained_column": "加　参三七　五分　〔第？〕〔柒？〕取汁去心冲服",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        103,
+        612,
+        118,
+        1875
+      ]
+    },
+    {
+      "unit_id": "f075-c01",
+      "frame": 75,
+      "image_sha256": "7336814ab572bc4b4c848bcd2b6bc48c3c7e89d1c3a8f818838e607931f1e0e4",
+      "initial_column": "久欬而兼血溢不止脉象六部虛數無根是陰亏",
+      "sealed_column": "久欬而兼血溢不已脈象六部虛數無根是陰亏",
+      "retained_column": "久欬而兼血溢不止脉象六部虛數無根是陰亏",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1234,
+        394,
+        118,
+        2327
+      ]
+    },
+    {
+      "unit_id": "f075-c02",
+      "frame": 75,
+      "image_sha256": "7336814ab572bc4b4c848bcd2b6bc48c3c7e89d1c3a8f818838e607931f1e0e4",
+      "initial_column": "陽亢金被火刑為怯損成之候也法頗易理",
+      "sealed_column": "陽亢金被火刑為怯損成之候也法須易理",
+      "retained_column": "陽亢金被火刑為怯損成之候也法頗易理",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1072,
+        406,
+        118,
+        2137
+      ]
+    },
+    {
+      "unit_id": "f075-c04",
+      "frame": 75,
+      "image_sha256": "7336814ab572bc4b4c848bcd2b6bc48c3c7e89d1c3a8f818838e607931f1e0e4",
+      "initial_column": "真阿膠　淮藥　元武飯",
+      "sealed_column": "真阿膠　淮藥　元武飯版",
+      "retained_column": "真阿膠　淮藥　元武飯",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        698,
+        472,
+        118,
+        1808
+      ]
+    },
+    {
+      "unit_id": "f075-c06",
+      "frame": 75,
+      "image_sha256": "7336814ab572bc4b4c848bcd2b6bc48c3c7e89d1c3a8f818838e607931f1e0e4",
+      "initial_column": "加　茅根汁一〔酒？〕杯冲服",
+      "sealed_column": "加茅根汁一酒杯沖服",
+      "retained_column": "加　茅根汁一〔酒？〕杯冲服",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        276,
+        670,
+        118,
+        1573
+      ]
+    },
+    {
+      "unit_id": "f076-c03",
+      "frame": 76,
+      "image_sha256": "b349ff9b63a1847fe0d594a9651e1ebff27e5ab630031c170909973e6bd8dd9a",
+      "initial_column": "生於术　石决明　炒〔蘇？〕子",
+      "sealed_column": "生於术　石決明　炒梔子",
+      "retained_column": "生於术　石决明　炒〔蘇？〕子",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        729,
+        433,
+        119,
+        1543
+      ]
+    },
+    {
+      "unit_id": "f076-c06",
+      "frame": 76,
+      "image_sha256": "b349ff9b63a1847fe0d594a9651e1ebff27e5ab630031c170909973e6bd8dd9a",
+      "initial_column": "加　鮮竹〔茹？〕　三分",
+      "sealed_column": "加鮮竹茹五分",
+      "retained_column": "加　鮮竹茹　三分",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        137,
+        651,
+        119,
+        819
+      ]
+    },
+    {
+      "unit_id": "f077-c01",
+      "frame": 77,
+      "image_sha256": "460a1bfcf05d37983661acb4b1d977cdf0615f24dd112e13cc69fb9524c06581",
+      "initial_column": "寒熱胸煩喘嗽兼嘔吐不止診得脉象弦細而",
+      "sealed_column": "寒熱胸煩喘嗽雜嘔吐不已診得脈手象弦細而",
+      "retained_column": "寒熱胸煩喘嗽兼嘔吐不止診得脉象弦細而",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1238,
+        386,
+        119,
+        2237
+      ]
+    },
+    {
+      "unit_id": "f077-c02",
+      "frame": 77,
+      "image_sha256": "460a1bfcf05d37983661acb4b1d977cdf0615f24dd112e13cc69fb9524c06581",
+      "initial_column": "數舌胎微白此係本元虛乏班疹稍見尚未透足",
+      "sealed_column": "數舌胎微白此係本元虛乏斑疹稍見尚未透足",
+      "retained_column": "數舌胎微白此係本元虛乏班疹稍見尚未透足",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1068,
+        391,
+        118,
+        2384
+      ]
+    },
+    {
+      "unit_id": "f077-c03",
+      "frame": 77,
+      "image_sha256": "460a1bfcf05d37983661acb4b1d977cdf0615f24dd112e13cc69fb9524c06581",
+      "initial_column": "甚偏危殆暫擬解表透肌法治之備方於左候",
+      "sealed_column": "甚屬危殆暫擬解表透肌法治之備方於左候",
+      "retained_column": "甚偏危殆暫擬解表透肌法治之備方於左候",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        896,
+        400,
+        118,
+        2264
+      ]
+    },
+    {
+      "unit_id": "f078-c01",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "小姐方　咳嗆久纏形瘦脉虛潮熱骨蒸汗淋不",
+      "sealed_column": "小姐方咳嗆久纏形瘦飯虛潮熱骨蒸汗淋不",
+      "retained_column": "小姐方　咳嗆久纏形瘦脉虛潮熱骨蒸汗淋不",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1224,
+        246,
+        119,
+        2369
+      ]
+    },
+    {
+      "unit_id": "f078-c04",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "冬虫夏艸〔量記？〕　漂青黛〔量記？〕　紫丹参二〔量記？〕",
+      "sealed_column": "冬虫夏艸一戔　漂去鹹黑料丹參三戔",
+      "retained_column": "冬虫夏艸〔量記？〕　漂青黛〔量記？〕　紫丹参二〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        757,
+        374,
+        118,
+        2244
+      ]
+    },
+    {
+      "unit_id": "f078-c05",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "旋福花〔量記？〕　淡秋石〔量記？〕　懷膝鬚〔量記？〕",
+      "sealed_column": "旋複花　淡秋石五分　懷膝鬚一戔",
+      "retained_column": "旋福花〔量記？〕　淡秋石〔量記？〕　懷膝鬚〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        597,
+        385,
+        118,
+        2350
+      ]
+    },
+    {
+      "unit_id": "f078-c06",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "生蛤殼〔量記？〕　五味子六〔量記？〕　地骨皮二〔量記？〕",
+      "sealed_column": "生蛤殼　五味子六分　地骨皮二戔",
+      "retained_column": "生蛤殼〔量記？〕　五味子六〔量記？〕　地骨皮二〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        422,
+        396,
+        118,
+        2244
+      ]
+    },
+    {
+      "unit_id": "f078-c07",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "〔京？〕川貝〔量記？〕　炒白芍〔量記？〕　黃耆皮〔量記？〕",
+      "sealed_column": "京川貝母　炒白芍一戔　黃耆皮一戔",
+      "retained_column": "〔京？〕川貝〔量記？〕　炒白芍〔量記？〕　黃耆皮〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        252,
+        399,
+        119,
+        2219
+      ]
+    },
+    {
+      "unit_id": "f078-c08",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "initial_column": "加　藕節〔量記？〕枚　風梔〔量記？〕枚　紅棗四枚",
+      "sealed_column": "加藕節四枚枇杷四枚紅棗四枚",
+      "retained_column": "加　藕節〔量記？〕枚　風梔〔量記？〕枚　紅棗四枚",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        98,
+        676,
+        119,
+        1581
+      ]
+    },
+    {
+      "unit_id": "f079-c01",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "小姐連上　投清金保肺之法諸恙依然脉〔塗改〕弦細",
+      "sealed_column": "小姐連上投法主保肺之法諸恙依然飯脈弦細",
+      "retained_column": "小姐連上　投法主保肺之法諸恙依然脉〔塗改〕弦細",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1238,
+        245,
+        119,
+        2558
+      ]
+    },
+    {
+      "unit_id": "f079-c02",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "數總之肺腎大虧離火上炎勞怯已成法難",
+      "sealed_column": "數總之肺腎大虧龍火上炎勞怯已成法難",
+      "retained_column": "數總之肺腎大虧離火上炎勞怯已成法難",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1080,
+        391,
+        119,
+        2410
+      ]
+    },
+    {
+      "unit_id": "f079-c04",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "蛤粉炒阿膠〔量記？〕　赭石〔量記？〕　石决明〔量記？〕",
+      "sealed_column": "蛤粉炒阿膠一戔　赭石三戔煅研　石決明研四戔",
+      "retained_column": "蛤粉炒阿膠〔量記？〕　赭石〔量記？〕　石决明〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        738,
+        380,
+        119,
+        2202
+      ]
+    },
+    {
+      "unit_id": "f079-c05",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "珠兒参一〔量記？〕　川貝〔量記？〕　嫩百部〔量記？〕",
+      "sealed_column": "珠兒參一戔　川貝一戔去心　嫩百部三戔",
+      "retained_column": "珠兒参一〔量記？〕　川貝〔量記？〕　嫩百部〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        567,
+        406,
+        119,
+        2298
+      ]
+    },
+    {
+      "unit_id": "f079-c06",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "旋福花〔量記？〕　鱉甲〔量記？〕　紫苑茸〔量記？〕",
+      "sealed_column": "旋複花絹包二戔　鱉甲炙五戔　紫苑茸蜜炙一戔",
+      "retained_column": "旋福花〔量記？〕　鱉甲〔量記？〕　紫苑茸〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        403,
+        433,
+        119,
+        2215
+      ]
+    },
+    {
+      "unit_id": "f079-c07",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "欵冬〔花？〕〔量記？〕　〔蘇？〕子〔量記？〕　羚羊片三〔量記？〕",
+      "sealed_column": "款冬花蜜炙一戔　葶藶子切研五分　羚羊片三分",
+      "retained_column": "欵冬〔花？〕〔量記？〕　〔蘇？〕子〔量記？〕　羚羊片三〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        224,
+        427,
+        118,
+        2310
+      ]
+    },
+    {
+      "unit_id": "f079-c08",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "initial_column": "加　枇杷叶一〔量記？〕　淡竹叶一〔量記？〕　猪爪甲二枚",
+      "sealed_column": "加枇杷叶一戔去毛蜜炙　淡竹叶一戔　楮木耳三枚",
+      "retained_column": "加　枇杷叶一〔量記？〕　淡竹叶一〔量記？〕　猪爪甲二枚",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        72,
+        671,
+        119,
+        2202
+      ]
+    },
+    {
+      "unit_id": "f080-c01",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "娘子　火土兩虧納穀不化黎明泄瀉腹痛胃呆",
+      "sealed_column": "娘子　火土兩虧納穀不化粪作泄瀉腹痛胃呆",
+      "retained_column": "娘子　火土兩虧納穀不化黎明泄瀉腹痛胃呆",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1214,
+        334,
+        119,
+        2530
+      ]
+    },
+    {
+      "unit_id": "f080-c02",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "脉虛細擬補火生土法",
+      "sealed_column": "脈虛耎擬補火生土法",
+      "retained_column": "脉虛細擬補火生土法",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1057,
+        658,
+        119,
+        1251
+      ]
+    },
+    {
+      "unit_id": "f080-c03",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "土炒於术〔量記？〕　肉果〔量記？〕　法夏　煨木香八分",
+      "sealed_column": "土炒於术三戔　肉果煨五分　訶皮　煨木香八分",
+      "retained_column": "土炒於术〔量記？〕　肉果〔量記？〕　法夏　煨木香八分",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        882,
+        412,
+        119,
+        2430
+      ]
+    },
+    {
+      "unit_id": "f080-c04",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "淡吳萸〔量記？〕　白芍〔量記？〕　升麻　赤石脂〔量記？〕",
+      "sealed_column": "淡吳萸五分　白芍土炒一戔　升麻　赤石脂煅研一戔",
+      "retained_column": "淡吳萸〔量記？〕　白芍〔量記？〕　升麻　赤石脂〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        711,
+        398,
+        119,
+        2436
+      ]
+    },
+    {
+      "unit_id": "f080-c05",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "補骨脂〔量記？〕　懷藥二〔量記？〕　五味　雲茯苓〔量記？〕",
+      "sealed_column": "補骨脂鹽炒一戔　懷藥炒二戔　五味　雲茯苓一戔",
+      "retained_column": "補骨脂〔量記？〕　懷藥二〔量記？〕　五味　雲茯苓〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        543,
+        407,
+        119,
+        2427
+      ]
+    },
+    {
+      "unit_id": "f080-c06",
+      "frame": 80,
+      "image_sha256": "cfa639cecf04bb02674ea3bf94a408ef5b146ed557ada78a2c0b3a618d9cbd4c",
+      "initial_column": "加　砂仁殼〔量記？〕　蓮肉數粒",
+      "sealed_column": "加砂仁殼炒丸　蓮肉去心數粒",
+      "retained_column": "加　砂仁殼〔量記？〕　蓮肉數粒",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        334,
+        645,
+        119,
+        1666
+      ]
+    },
+    {
+      "unit_id": "f081-c01",
+      "frame": 81,
+      "image_sha256": "f640f45b107aab728b1d948ad24f7baf1f308832bac8eb37e4edb9b686e000c0",
+      "initial_column": "厥陰之氣〔欝？〕〔滯？〕下焦以致小腹作攻冲嘔噁",
+      "sealed_column": "厥陰之氣欝滯下焦以致小腹作攻沖嘔噁",
+      "retained_column": "厥陰之氣〔欝？〕〔滯？〕下焦以致小腹作攻冲嘔噁",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1240,
+        408,
+        117,
+        2400
+      ]
+    },
+    {
+      "unit_id": "f081-c04",
+      "frame": 81,
+      "image_sha256": "f640f45b107aab728b1d948ad24f7baf1f308832bac8eb37e4edb9b686e000c0",
+      "initial_column": "瓦楞子　鬱金　烏〔㮐？〕　川楝子",
+      "sealed_column": "丸欏子　鵝金　烏藥　川楝子",
+      "retained_column": "瓦楞子　鬱金　烏〔㮐？〕　川楝子",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        737,
+        489,
+        118,
+        2088
+      ]
+    },
+    {
+      "unit_id": "f081-c06",
+      "frame": 81,
+      "image_sha256": "f640f45b107aab728b1d948ad24f7baf1f308832bac8eb37e4edb9b686e000c0",
+      "initial_column": "加　上血珀三分　上肉桂二分",
+      "sealed_column": "加上血珀三分　上肉桂三分",
+      "retained_column": "加　上血珀三分　上肉桂二分",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        361,
+        635,
+        118,
+        1623
+      ]
+    },
+    {
+      "unit_id": "f082-c01",
+      "frame": 82,
+      "image_sha256": "1768a586e12948e4868cb13f7f21494887e0528809c60f939741b9311fff299b",
+      "initial_column": "肝腎營虛漏經不止腰痠帶下口燥舌乾",
+      "sealed_column": "肝腎營虛漏經不已腰痠帶下口燥舌乾",
+      "retained_column": "肝腎營虛漏經不止腰痠帶下口燥舌乾",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1200,
+        407,
+        118,
+        2331
+      ]
+    },
+    {
+      "unit_id": "f082-c02",
+      "frame": 82,
+      "image_sha256": "1768a586e12948e4868cb13f7f21494887e0528809c60f939741b9311fff299b",
+      "initial_column": "脉形虛數擬養營益氣固下為主",
+      "sealed_column": "脈形虛數擬養營益氣斂陰固下為主",
+      "retained_column": "脉形虛數擬養營益氣固下為主",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1043,
+        422,
+        118,
+        1926
+      ]
+    },
+    {
+      "unit_id": "f082-c07",
+      "frame": 82,
+      "image_sha256": "1768a586e12948e4868cb13f7f21494887e0528809c60f939741b9311fff299b",
+      "initial_column": "加佛手柑　紅棗二",
+      "sealed_column": "加佛手柑　紅棗",
+      "retained_column": "加佛手柑　紅棗二",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        146,
+        618,
+        118,
+        1307
+      ]
+    },
+    {
+      "unit_id": "f083-c03",
+      "frame": 83,
+      "image_sha256": "4ca08e59f93f323f0d59cf1430cf88919ac8d9de8dda7bd87dd781fa4b651c64",
+      "initial_column": "意調攝方免後患耳",
+      "sealed_column": "再調攝方免貽患耳",
+      "retained_column": "意調攝方免後患耳",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        920,
+        400,
+        119,
+        1449
+      ]
+    },
+    {
+      "unit_id": "f083-c06",
+      "frame": 83,
+      "image_sha256": "4ca08e59f93f323f0d59cf1430cf88919ac8d9de8dda7bd87dd781fa4b651c64",
+      "initial_column": "羚羊尖　生元参　厚杜仲",
+      "sealed_column": "羚羊尖　建元參　厚杜仲",
+      "retained_column": "羚羊尖　生元参　厚杜仲",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        323,
+        426,
+        119,
+        2028
+      ]
+    },
+    {
+      "unit_id": "f083-c07",
+      "frame": 83,
+      "image_sha256": "4ca08e59f93f323f0d59cf1430cf88919ac8d9de8dda7bd87dd781fa4b651c64",
+      "initial_column": "鹽炒黑梔",
+      "sealed_column": "鹽炒黃栢　加紅棗　藕節",
+      "retained_column": "鹽炒黑梔",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        53,
+        420,
+        221,
+        591
+      ]
+    },
+    {
+      "unit_id": "f084-c01",
+      "frame": 84,
+      "image_sha256": "2f7860a5254043240f28a2c1e7d1ab9aeea4a5b1dc2678e6351b0936a576bcbb",
+      "initial_column": "營衛大虧氣機失暢以致腹中陣痛經帶",
+      "sealed_column": "營衛大虧氣機失暢以致腹中陣痛經常",
+      "retained_column": "營衛大虧氣機失暢以致腹中陣痛經帶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1228,
+        407,
+        118,
+        2321
+      ]
+    },
+    {
+      "unit_id": "f084-c02",
+      "frame": 84,
+      "image_sha256": "2f7860a5254043240f28a2c1e7d1ab9aeea4a5b1dc2678e6351b0936a576bcbb",
+      "initial_column": "綿々六脉細細姑擬養營益氣斂陰固下之",
+      "sealed_column": "綿下六脈細耎姑擬養營益氣斂陰固下主",
+      "retained_column": "綿々六脉細細姑擬養營益氣斂陰固下之",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1068,
+        397,
+        118,
+        2322
+      ]
+    },
+    {
+      "unit_id": "f084-c04",
+      "frame": 84,
+      "image_sha256": "2f7860a5254043240f28a2c1e7d1ab9aeea4a5b1dc2678e6351b0936a576bcbb",
+      "initial_column": "製首烏　龍骨　茜艸　烏鰂骨",
+      "sealed_column": "製首烏　龍骨　益母　烏鯽骨",
+      "retained_column": "製首烏　龍骨　茜艸　烏鰂骨",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        739,
+        393,
+        118,
+        2177
+      ]
+    },
+    {
+      "unit_id": "f084-c06",
+      "frame": 84,
+      "image_sha256": "2f7860a5254043240f28a2c1e7d1ab9aeea4a5b1dc2678e6351b0936a576bcbb",
+      "initial_column": "〔炒？〕白芍　杜仲　香附　於术炭",
+      "sealed_column": "砂白芍　杜仲　香附　於术炭",
+      "retained_column": "〔炒？〕白芍　杜仲　香附　於术炭",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        408,
+        424,
+        118,
+        2088
+      ]
+    },
+    {
+      "unit_id": "f085-c02",
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "initial_column": "屬肺痿之候延及虛勞之象治頗易之也",
+      "sealed_column": "屬肺痿之候延及虛勞之象治豈易之也",
+      "retained_column": "屬肺痿之候延及虛勞之象治頗易之也",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1082,
+        417,
+        118,
+        2347
+      ]
+    },
+    {
+      "unit_id": "f085-c03",
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "initial_column": "全福花　山梔　紫苑　石决明",
+      "sealed_column": "全栝蔞　六花　紫苑　石決明",
+      "retained_column": "全福花　山梔　紫苑　石决明",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        849,
+        437,
+        118,
+        2201
+      ]
+    },
+    {
+      "unit_id": "f085-c04",
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "initial_column": "代者石　天冬　玉竹　小生地",
+      "sealed_column": "代赭石　天冬　玉竹　小生地",
+      "retained_column": "代者石　天冬　玉竹　小生地",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        670,
+        468,
+        118,
+        2136
+      ]
+    },
+    {
+      "unit_id": "f085-c05",
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "initial_column": "川貝母　麦冬　秋石　漂青黛",
+      "sealed_column": "川貝母　麥冬　枇杷　漂去鹹",
+      "retained_column": "川貝母　麦冬　秋石　漂青黛",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        507,
+        454,
+        118,
+        2198
+      ]
+    },
+    {
+      "unit_id": "f085-c06",
+      "frame": 85,
+      "image_sha256": "098b16e90af353ecac1ee89d4c01bdc8bbee23e60e48d7795151681eb8cc1f60",
+      "initial_column": "加　菩提根　〔又？〕紅棗　枇杷叶",
+      "sealed_column": "加苧根取　紅棗　枇杷叶",
+      "retained_column": "加　菩提根　〔又？〕紅棗　枇杷叶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        255,
+        663,
+        118,
+        1959
+      ]
+    },
+    {
+      "unit_id": "f086-c03",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "initial_column": "權姑擬姜連法治之俾得滯減胃開緩圖僥倖",
+      "sealed_column": "權姑擬姜連法政正俾得滯減胃惻緩兩倦倖",
+      "retained_column": "權姑擬姜連法治之俾得滯減胃開緩圖僥倖",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        905,
+        408,
+        118,
+        2511
+      ]
+    },
+    {
+      "unit_id": "f086-c04",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "initial_column": "川連〔量記？〕　車前　扁豆衣",
+      "sealed_column": "川連　車前　扁豆衣",
+      "retained_column": "川連〔量記？〕　車前　扁豆衣",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        733,
+        433,
+        118,
+        1721
+      ]
+    },
+    {
+      "unit_id": "f086-c05",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "initial_column": "乾干姜〔量記？〕　赤苓　生白芍",
+      "sealed_column": "乾干姜五分　赤芩　生白芍",
+      "retained_column": "乾干姜〔量記？〕　赤苓　生白芍",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        554,
+        461,
+        118,
+        1753
+      ]
+    },
+    {
+      "unit_id": "f086-c06",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "initial_column": "煨葛根〔量記？〕　查肉　採云曲　再加",
+      "sealed_column": "煨葛根二戔　益智",
+      "retained_column": "煨葛根〔量記？〕　查肉　採云曲　再加",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        366,
+        492,
+        119,
+        978
+      ]
+    },
+    {
+      "unit_id": "f086-c07",
+      "frame": 86,
+      "image_sha256": "2d1dbf5ba31e426e07b6b983e382f731066fec97a7b484cf915eae74931d110d",
+      "initial_column": "煨木香　加荷蒂三枚　佩蘭叶　鮮穀穗三〔枝？〕",
+      "sealed_column": "煨木香八分　加荷蒂三枚佩蘭叶",
+      "retained_column": "煨木香　加荷蒂三枚　佩蘭叶　鮮穀穗三〔枝？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        179,
+        509,
+        118,
+        1908
+      ]
+    },
+    {
+      "unit_id": "f087-c02",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "脉形沉細擬平肝調氣為主",
+      "sealed_column": "脈形沉奕擬平肝調氣為主",
+      "retained_column": "脉形沉細擬平肝調氣為主",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1090,
+        376,
+        118,
+        1772
+      ]
+    },
+    {
+      "unit_id": "f087-c03",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "淡吳萸　枳殼　〔青？〕〔皮？〕　烏〔㮐？〕　瓦楞子",
+      "sealed_column": "淡吳萸　枳殼　薑郎　烏藥　丸欏子",
+      "retained_column": "淡吳萸　枳殼　〔青？〕〔皮？〕　烏〔㮐？〕　瓦楞子",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        897,
+        390,
+        118,
+        2105
+      ]
+    },
+    {
+      "unit_id": "f087-c04",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "法半夏　〔會？〕〔皮？〕　鬱金　兵榔　〔塗改〕",
+      "sealed_column": "法半夏　錢皮　鬱金　真榔　□□",
+      "retained_column": "法半夏　〔會？〕〔皮？〕　鬱金　兵榔　〔塗改〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        723,
+        362,
+        118,
+        2195
+      ]
+    },
+    {
+      "unit_id": "f087-c05",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "〔杜？〕〔塗改〕仲　廣藿　加佛手片",
+      "sealed_column": "橘紅　廣藿　加佛手片",
+      "retained_column": "〔杜？〕〔塗改〕仲　廣藿　加佛手片",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        563,
+        341,
+        118,
+        1441
+      ]
+    },
+    {
+      "unit_id": "f087-c06",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "九香虫　白檀香　佩蘭",
+      "sealed_column": "九香虫 白壇香　佩兰",
+      "retained_column": "九香虫　白檀香　佩蘭",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        465,
+        370,
+        124,
+        1705
+      ]
+    },
+    {
+      "unit_id": "f087-c07",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "肝脾不調寒〔歛？〕氣滯納穀痞脹腹痛便〔溏？〕脉形沉滑擬和",
+      "sealed_column": "肝脾不調寒熱氣滯納穀痞脹腹痛後脈形沉濇擬和",
+      "retained_column": "肝脾不調寒〔歛？〕氣滯納穀痞脹腹痛便〔溏？〕脉形沉滑擬和",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        340,
+        375,
+        119,
+        2460
+      ]
+    },
+    {
+      "unit_id": "f087-c09",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "法半夏　枳売　木香　香艾　九香虫　台烏〔㮐？〕",
+      "sealed_column": "法半夏　枳殼　木香　青皮　九香虫　烏藥　加綠萼梅",
+      "retained_column": "法半夏　枳売　木香　香艾　九香虫　台烏〔㮐？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        118,
+        112,
+        118,
+        2608
+      ]
+    },
+    {
+      "unit_id": "f087-c10",
+      "frame": 87,
+      "image_sha256": "ee655798b500ca48dfc0a0b980756be37316427b72acf8342a1e6636d1061384",
+      "initial_column": "淡乾姜　白芍　蔻仁　丁香　厚朴花　淡吳萸　加綠萼梅",
+      "sealed_column": "皮乾姜　白芍　蔻仁　丁香　旋杆花　淡吳萸",
+      "retained_column": "淡乾姜　白芍　蔻仁　丁香　厚朴花　淡吳萸　加綠萼梅",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        14,
+        92,
+        118,
+        1939
+      ]
+    },
+    {
+      "unit_id": "f088-c01",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "伏暑外感身熱嘔噁脉形沉滑舌黃厚膩須",
+      "sealed_column": "伏暑外感身熱嘔噁脈形沉滑舌黃厚膩淡",
+      "retained_column": "伏暑外感身熱嘔噁脉形沉滑舌黃厚膩須",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1227,
+        307,
+        118,
+        2389
+      ]
+    },
+    {
+      "unit_id": "f088-c02",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "防發洩",
+      "sealed_column": "防營液",
+      "retained_column": "防發洩",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1050,
+        317,
+        118,
+        499
+      ]
+    },
+    {
+      "unit_id": "f088-c03",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "大豆卷　山梔　車前　青蒿　赤苓",
+      "sealed_column": "太豆參　山梔　車前　青蒿　赤芩",
+      "retained_column": "大豆卷　山梔　車前　青蒿　赤苓",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        920,
+        307,
+        118,
+        2296
+      ]
+    },
+    {
+      "unit_id": "f088-c06",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "粉歸全　紫丹参　煆牡蠣　烏〔㮐？〕",
+      "sealed_column": "粉歸全　紫丹參　煅牡蠣　烏藥",
+      "retained_column": "粉歸全　紫丹参　煆牡蠣　烏〔㮐？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        386,
+        405,
+        118,
+        2395
+      ]
+    },
+    {
+      "unit_id": "f088-c07",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "川楝子　生苡子　烏鰂骨　山梔",
+      "sealed_column": "小枳芎　萸萸子　烏鯽骨　萸□",
+      "retained_column": "川楝子　生苡子　烏鰂骨　山梔",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        222,
+        404,
+        118,
+        2413
+      ]
+    },
+    {
+      "unit_id": "f088-c08",
+      "frame": 88,
+      "image_sha256": "9eb90df99db3197c033006c3736586d77ab520d0e11f1ddc972e11ea07fa7491",
+      "initial_column": "〔炒？〕白芍　淨蓮鬚　煨益智　杜仲",
+      "sealed_column": "梔白芍　淨蓮鬚　煨益智　山梔",
+      "retained_column": "〔炒？〕白芍　淨蓮鬚　煨益智　杜仲",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        87,
+        418,
+        118,
+        2393
+      ]
+    },
+    {
+      "unit_id": "f089-c01",
+      "frame": 89,
+      "image_sha256": "fe3e232b1d1b853c4d51b32e493488d38c8add2f3fa76fb2058df38645ce5a19",
+      "initial_column": "元虛外感寒熱似瘧脉形滑數擬",
+      "sealed_column": "元虛外感寒熱似瘧脈形消數擬",
+      "retained_column": "元虛外感寒熱似瘧脉形滑數擬",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1235,
+        361,
+        119,
+        2345
+      ]
+    },
+    {
+      "unit_id": "f089-c03",
+      "frame": 89,
+      "image_sha256": "fe3e232b1d1b853c4d51b32e493488d38c8add2f3fa76fb2058df38645ce5a19",
+      "initial_column": "霍石斛　採云麯　炙鱉甲",
+      "sealed_column": "霍石斛　探云麴　炙鱉甲",
+      "retained_column": "霍石斛　採云麯　炙鱉甲",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        912,
+        393,
+        118,
+        2120
+      ]
+    },
+    {
+      "unit_id": "f089-c04",
+      "frame": 89,
+      "image_sha256": "fe3e232b1d1b853c4d51b32e493488d38c8add2f3fa76fb2058df38645ce5a19",
+      "initial_column": "連翹殼　銀柴胡　青蒿葉",
+      "sealed_column": "連翹殼　銀柴胡　香蒿梗",
+      "retained_column": "連翹殼　銀柴胡　青蒿葉",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        731,
+        425,
+        118,
+        2068
+      ]
+    },
+    {
+      "unit_id": "f089-c07",
+      "frame": 89,
+      "image_sha256": "fe3e232b1d1b853c4d51b32e493488d38c8add2f3fa76fb2058df38645ce5a19",
+      "initial_column": "加佛手柑　佩蘭叶〔量記？〕",
+      "sealed_column": "加佛手柑　佩蘭叶一戔",
+      "retained_column": "加佛手柑　佩蘭叶〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        240,
+        939,
+        118,
+        1818
+      ]
+    },
+    {
+      "unit_id": "f090-t04",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "虛軟屬",
+      "sealed_column": "虛軟系",
+      "retained_column": "虛軟屬",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        950,
+        65,
+        118,
+        360
+      ]
+    },
+    {
+      "unit_id": "f090-t06",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "亏絡失",
+      "sealed_column": "方絡失",
+      "retained_column": "亏絡失",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        773,
+        68,
+        118,
+        297
+      ]
+    },
+    {
+      "unit_id": "f090-t07",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "營養以",
+      "sealed_column": "營養而",
+      "retained_column": "營養以",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        658,
+        70,
+        118,
+        303
+      ]
+    },
+    {
+      "unit_id": "f090-t08",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "攻擬和",
+      "sealed_column": "致擬和",
+      "retained_column": "攻擬和",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        538,
+        71,
+        118,
+        314
+      ]
+    },
+    {
+      "unit_id": "f090-t13",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "〔素？〕〔生？〕地",
+      "sealed_column": "桑寄生",
+      "retained_column": "〔素？〕〔生？〕地",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        22,
+        84,
+        118,
+        307
+      ]
+    },
+    {
+      "unit_id": "f090-c01",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "大瘧稍晚寒少熱輕脉形虛軟屬氣",
+      "sealed_column": "大瘧較晚寒少熱輕脈形虛數屬氣",
+      "retained_column": "大瘧稍晚寒少熱輕脉形虛軟屬氣",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1218,
+        419,
+        118,
+        2248
+      ]
+    },
+    {
+      "unit_id": "f090-c02",
+      "frame": 90,
+      "image_sha256": "0e9eda0029af130b00471f7a3c245d928d56f468004d797da9d2964c274609de",
+      "initial_column": "陰兩虧餘邪未盡法當擬補陰調氣",
+      "sealed_column": "陰兩虧餘波未盡清楚擬補陰調氣",
+      "retained_column": "陰兩虧餘邪未盡法當擬補陰調氣",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1038,
+        419,
+        118,
+        2324
+      ]
+    },
+    {
+      "unit_id": "f091-c03",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "initial_column": "膩灰白由是觀之惟恐〔發？〕〔癍？〕之虞矣",
+      "sealed_column": "膩底白由是觀之惟恐發癇之虞矣",
+      "retained_column": "膩灰白由是觀之惟恐〔發？〕〔癍？〕之虞矣",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        864,
+        320,
+        119,
+        2584
+      ]
+    },
+    {
+      "unit_id": "f091-c04",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "initial_column": "擬一方即請明裁",
+      "sealed_column": "擬一方即清明裁",
+      "retained_column": "擬一方即請明裁",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        706,
+        311,
+        118,
+        1593
+      ]
+    },
+    {
+      "unit_id": "f091-c05",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "initial_column": "大豆卷　山梔　焦萊菔",
+      "sealed_column": "大豆卷　山梔　羚羊散",
+      "retained_column": "大豆卷　山梔　焦萊菔",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        493,
+        140,
+        118,
+        2260
+      ]
+    },
+    {
+      "unit_id": "f091-c06",
+      "frame": 91,
+      "image_sha256": "3de21aa44d60d2602cf55405ad72ad17aa1d0c125472cb43099bac8914ffe547",
+      "initial_column": "青蒿葉　黃芩　金元姜",
+      "sealed_column": "青蒿梗　黃芩　全瓜蔞",
+      "retained_column": "青蒿葉　黃芩　金元姜",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        328,
+        205,
+        118,
+        2178
+      ]
+    },
+    {
+      "unit_id": "f092-c03",
+      "frame": 92,
+      "image_sha256": "242009354e75ed81ba29ef557b5479ca7fcc5c3c3727248f4d04ff3355a4ef7e",
+      "initial_column": "虛風之症因鬱結而致肺氣上升以〔旋？〕目眩",
+      "sealed_column": "虛風之症因鬱結而成肺氣上升飛旋目眩",
+      "retained_column": "虛風之症因鬱結而致肺氣上升以〔旋？〕目眩",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        920,
+        363,
+        118,
+        2479
+      ]
+    },
+    {
+      "unit_id": "f092-c08",
+      "frame": 92,
+      "image_sha256": "242009354e75ed81ba29ef557b5479ca7fcc5c3c3727248f4d04ff3355a4ef7e",
+      "initial_column": "法半夏　加　遠志〔量記？〕",
+      "sealed_column": "法半夏　加遠志肉",
+      "retained_column": "法半夏　加　遠志〔量記？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        45,
+        210,
+        118,
+        1378
+      ]
+    },
+    {
+      "unit_id": "f093-c01",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "太陰氣運失司脉沉〔往？〕〔阻？〕舌色浮紅〔枕？〕屬痰濁液涸",
+      "sealed_column": "太陰氣運失司脈沉往阻舌色浮紅概屬痰滯液涸",
+      "retained_column": "太陰氣運失司脉沉〔往？〕〔阻？〕舌色浮紅〔枕？〕屬痰濁液涸",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1223,
+        592,
+        118,
+        2140
+      ]
+    },
+    {
+      "unit_id": "f093-c04",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "廣玉金　丹参　烏〔㮐？〕　紅花　路々通",
+      "sealed_column": "廣鬱金　丹參　烏藥　紅花　路路通",
+      "retained_column": "廣玉金　丹参　烏〔㮐？〕　紅花　路々通",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        754,
+        584,
+        119,
+        1677
+      ]
+    },
+    {
+      "unit_id": "f093-c05",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "伏暑外感身熱嘔噁脉形沉滑舌黃厚膩須防發洩",
+      "sealed_column": "伏暑外感身熱嘔噁脈形沉滑舌黃厚膩須防發痧",
+      "retained_column": "伏暑外感身熱嘔噁脉形沉滑舌黃厚膩須防發洩",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        592,
+        594,
+        118,
+        2113
+      ]
+    },
+    {
+      "unit_id": "f093-c06",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "大豆卷　山梔　青蒿　車前　赤苓　佩蘭叶",
+      "sealed_column": "大豆卷　山梔　青蒿　車前　赤芩　佩蘭叶",
+      "retained_column": "大豆卷　山梔　青蒿　車前　赤苓　佩蘭叶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        432,
+        600,
+        118,
+        2034
+      ]
+    },
+    {
+      "unit_id": "f093-c07",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "大力子　黃芩　查肉　澤瀉　廣藿　葉梗香叶",
+      "sealed_column": "大力子　黃芩　查肉　澤瀉　廣藿　紫梗蘇叶",
+      "retained_column": "大力子　黃芩　查肉　澤瀉　廣藿　葉梗香叶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        271,
+        609,
+        119,
+        2000
+      ]
+    },
+    {
+      "unit_id": "f093-c08",
+      "frame": 93,
+      "image_sha256": "27b18c290a5c192e0c10cfc873b88b86224ef3cd27dfc4b56006fa5d5bf51781",
+      "initial_column": "伏暑外感熱甚神昏脉形滑數舌色灰膩底白由眼",
+      "sealed_column": "伏暑外感熱甚神昏脈形滑數舌色灰膩底白由觀",
+      "retained_column": "伏暑外感熱甚神昏脉形滑數舌色灰膩底白由眼",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        120,
+        609,
+        118,
+        2100
+      ]
+    },
+    {
+      "unit_id": "f094-c01",
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "initial_column": "觀之惟恐發癍之慮矣擬一方即請　明裁",
+      "sealed_column": "觀之惟恐發癇之虞矣擬一方叩清明裁",
+      "retained_column": "觀之惟恐發癍之慮矣擬一方即請　明裁",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1204,
+        611,
+        119,
+        1873
+      ]
+    },
+    {
+      "unit_id": "f094-c02",
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "initial_column": "大豆卷　鈎藤　黃芩　金辰姜",
+      "sealed_column": "大豆卷　鉤藤　黃芩　全瓜蔞",
+      "retained_column": "大豆卷　鈎藤　黃芩　金辰姜",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1032,
+        611,
+        119,
+        1417
+      ]
+    },
+    {
+      "unit_id": "f094-c03",
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "initial_column": "青蒿葉　山梔　萊菔　七液丹",
+      "sealed_column": "青蒿梗　山梔　羚散　七液丹",
+      "retained_column": "青蒿葉　山梔　萊菔　七液丹",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        873,
+        613,
+        119,
+        1450
+      ]
+    },
+    {
+      "unit_id": "f094-c04",
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "initial_column": "虛風之症因鬱結而成肺氣上升頭旋目眩昏神不",
+      "sealed_column": "虛風之症因鬱結而成肺氣上升飛旋目眩昏神不",
+      "retained_column": "虛風之症因鬱結而成肺氣上升頭旋目眩昏神不",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        709,
+        597,
+        119,
+        2194
+      ]
+    },
+    {
+      "unit_id": "f094-c06",
+      "frame": 94,
+      "image_sha256": "2a24e6a992d8008a49a997a691f83d7cf9a88fd34608c45f3c54c3ffcc249be2",
+      "initial_column": "石决明　白芍　玉金　鈎藤　生龍齒　遠志肉",
+      "sealed_column": "石決明　白芍　鬱金　鉤藤　煅龍齒　遠志肉",
+      "retained_column": "石决明　白芍　玉金　鈎藤　生龍齒　遠志肉",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        415,
+        621,
+        120,
+        2092
+      ]
+    },
+    {
+      "unit_id": "f095-c01",
+      "frame": 95,
+      "image_sha256": "540a6d3a50e25db54dd444d7b13aea2c5c942ffde457ad7a5c6dfd3513ee375f",
+      "initial_column": "〔善？〕後咳",
+      "sealed_column": "暑後咳",
+      "retained_column": "〔善？〕後咳",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1209,
+        266,
+        114,
+        724
+      ]
+    },
+    {
+      "unit_id": "f095-c02",
+      "frame": 95,
+      "image_sha256": "540a6d3a50e25db54dd444d7b13aea2c5c942ffde457ad7a5c6dfd3513ee375f",
+      "initial_column": "寒熱之後〔塗改〕嗆不已脉形滑數為肺症之邪",
+      "sealed_column": "寒熱之後咳嗆不已脈形滑數余脈症之邪",
+      "retained_column": "寒熱之後〔塗改〕嗆不已脉形滑數為肺症之邪",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1045,
+        211,
+        113,
+        2509
+      ]
+    },
+    {
+      "unit_id": "f095-c05",
+      "frame": 95,
+      "image_sha256": "540a6d3a50e25db54dd444d7b13aea2c5c942ffde457ad7a5c6dfd3513ee375f",
+      "initial_column": "甜荸薺　者石　〔蘇？〕子　石决　淡黃芩",
+      "sealed_column": "甜蔗蔗　赭石　葶子　石決　淡黃芩",
+      "retained_column": "甜荸薺　者石　〔蘇？〕子　石决　淡黃芩",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        456,
+        220,
+        114,
+        2460
+      ]
+    },
+    {
+      "unit_id": "f095-c07",
+      "frame": 95,
+      "image_sha256": "540a6d3a50e25db54dd444d7b13aea2c5c942ffde457ad7a5c6dfd3513ee375f",
+      "initial_column": "全福花　〔姜？〕〔殼？〕",
+      "sealed_column": "全梔花　薑殼",
+      "retained_column": "全福花　〔姜？〕〔殼？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        142,
+        277,
+        114,
+        1016
+      ]
+    },
+    {
+      "unit_id": "f096-c01",
+      "frame": 96,
+      "image_sha256": "12c3ae4d5f1034de162029cf39cb546c6f9b369b4d18e3a65dc0137e31af7f2c",
+      "initial_column": "肺虛風乘痰嗽氣急纒綿歲載⟦佔以／作已⟧不休",
+      "sealed_column": "肺虛風乘痰嗽氣急纏綿歲載作止不休",
+      "retained_column": "肺虛風乘痰嗽氣急纒綿歲載⟦佔以／作已⟧不休",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1253,
+        281,
+        114,
+        2439
+      ]
+    },
+    {
+      "unit_id": "f096-c02",
+      "frame": 96,
+      "image_sha256": "12c3ae4d5f1034de162029cf39cb546c6f9b369b4d18e3a65dc0137e31af7f2c",
+      "initial_column": "脈形細數參以肺症惟恐怯損之防切勿渺",
+      "sealed_column": "脈形細數參以厥症惟恐怯損之防切勿側",
+      "retained_column": "脈形細數參以肺症惟恐怯損之防切勿渺",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1075,
+        290,
+        114,
+        2412
+      ]
+    },
+    {
+      "unit_id": "f096-c06",
+      "frame": 96,
+      "image_sha256": "12c3ae4d5f1034de162029cf39cb546c6f9b369b4d18e3a65dc0137e31af7f2c",
+      "initial_column": "加甜葶藶　佛手柑　蓬大海",
+      "sealed_column": "加甜菴蔗　佛手柑　蓬大海",
+      "retained_column": "加甜葶藶　佛手柑　蓬大海",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        314,
+        436,
+        114,
+        1938
+      ]
+    },
+    {
+      "unit_id": "f097-c02",
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "initial_column": "胃呆神倦骨節痠疼脉虛而⟦奕／□⟧舌色少液總",
+      "sealed_column": "胃呆神倦骨節痠疼脈虛而耎舌色少液總",
+      "retained_column": "胃呆神倦骨節痠疼脉虛而⟦奕／□⟧舌色少液總",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1084,
+        280,
+        114,
+        2336
+      ]
+    },
+    {
+      "unit_id": "f097-c05",
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "initial_column": "霍石斛□　雲神□　石决明□",
+      "sealed_column": "霍石斛一戔　雲神一戔去木　石決明五分",
+      "retained_column": "霍石斛□　雲神□　石决明□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        585,
+        296,
+        113,
+        1931
+      ]
+    },
+    {
+      "unit_id": "f097-c06",
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "initial_column": "生穀芽□　連翹□　九香虫□",
+      "sealed_column": "生穀芽五分　連翹一戔　九香虫五分去足翅炒",
+      "retained_column": "生穀芽□　連翹□　九香虫□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        426,
+        296,
+        114,
+        1930
+      ]
+    },
+    {
+      "unit_id": "f097-c07",
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "initial_column": "廣鬱金□　山梔□　鐵皮斛□",
+      "sealed_column": "廣鬱金五分　山梔炒二戔　鉄皮斛五分",
+      "retained_column": "廣鬱金□　山梔□　鐵皮斛□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        263,
+        303,
+        114,
+        1932
+      ]
+    },
+    {
+      "unit_id": "f097-c08",
+      "frame": 97,
+      "image_sha256": "b53392077f8da83f833b922a819c78bb0a9c9067f92f64574e36aab3c57f2626",
+      "initial_column": "新会皮□　加　乾佛手　紅棗　鈎藤",
+      "sealed_column": "新會皮五分薑炒　加乾佛手　紅棗　鉤藤",
+      "retained_column": "新会皮□　加　乾佛手　紅棗　鈎藤",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        94,
+        308,
+        114,
+        2081
+      ]
+    },
+    {
+      "unit_id": "f098-c02",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "initial_column": "形滑軟擬扶元健中滲濕法",
+      "sealed_column": "形滑數擬扶元健中滲濕法",
+      "retained_column": "形滑軟擬扶元健中滲濕法",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1056,
+        284,
+        114,
+        1513
+      ]
+    },
+    {
+      "unit_id": "f098-c04",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "initial_column": "⟦竹西薑／□□□⟧　白芍　⟦條／澤⟧瀉　大玉竹",
+      "sealed_column": "炒西耆　白芍　澤瀉　大玉竹",
+      "retained_column": "⟦竹西薑／□□□⟧　白芍　⟦條／澤⟧瀉　大玉竹",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        772,
+        304,
+        114,
+        1896
+      ]
+    },
+    {
+      "unit_id": "f098-c08",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "initial_column": "暫擬滌痰安神熄風為主",
+      "sealed_column": "暫擬滌痰安神熄風為主",
+      "retained_column": "暫擬滌痰安神熄風為主",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        374,
+        343,
+        114,
+        1315
+      ]
+    },
+    {
+      "unit_id": "f098-c10",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "initial_column": "吉菖蒲　白⟦麻／□⟧　法夏",
+      "sealed_column": "煅龍齒　白蒺　法夏",
+      "retained_column": "吉菖蒲　白⟦麻／□⟧　法夏",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        151,
+        334,
+        114,
+        1204
+      ]
+    },
+    {
+      "unit_id": "f098-c11",
+      "frame": 98,
+      "image_sha256": "574eda58c69e8a9cd99184dfb11b9ea42f5c44ca411f94652ec944ea9276c598",
+      "initial_column": "杭甘菊　膽星　雲神　加礞石滾痰丸　⟦功／琥⟧珀",
+      "sealed_column": "杭甘菊　胆星　雲神　加礞石滾痰丸　另血珀",
+      "retained_column": "杭甘菊　膽星　雲神　加礞石滾痰丸　⟦功／琥⟧珀",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        57,
+        419,
+        114,
+        2316
+      ]
+    },
+    {
+      "unit_id": "f099-c01",
+      "frame": 99,
+      "image_sha256": "f412e22ab780b0e01b312b8c7d6f6e8fd8fb24149cc4894ce8d10fe723bface5",
+      "initial_column": "寒熱之後⟦喝／咳⟧嗆不已脉形滑數屬肺底之邪",
+      "sealed_column": "寒熱之後喝嗆不已脈形滑數屬肺底之邪",
+      "retained_column": "寒熱之後⟦喝／咳⟧嗆不已脉形滑數屬肺底之邪",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1258,
+        415,
+        119,
+        2332
+      ]
+    },
+    {
+      "unit_id": "f099-c04",
+      "frame": 99,
+      "image_sha256": "f412e22ab780b0e01b312b8c7d6f6e8fd8fb24149cc4894ce8d10fe723bface5",
+      "initial_column": "甜葶藶　蘇子　石决　全福花",
+      "sealed_column": "甜葶藶　蘇子　石決　全栝花",
+      "retained_column": "甜葶藶　蘇子　石决　全福花",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        755,
+        418,
+        119,
+        1778
+      ]
+    },
+    {
+      "unit_id": "f099-c08",
+      "frame": 99,
+      "image_sha256": "f412e22ab780b0e01b312b8c7d6f6e8fd8fb24149cc4894ce8d10fe723bface5",
+      "initial_column": "婦人月經三次去血□虧也先期而至血熱也",
+      "sealed_column": "婦人月經三次去血□方也先期而至去血熱也",
+      "retained_column": "婦人月經三次去血□虧也先期而至血熱也",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        63,
+        252,
+        119,
+        2238
+      ]
+    },
+    {
+      "unit_id": "f099-c09",
+      "frame": 99,
+      "image_sha256": "f412e22ab780b0e01b312b8c7d6f6e8fd8fb24149cc4894ce8d10fe723bface5",
+      "initial_column": "用補⟦歛／□⟧",
+      "sealed_column": "用□補飲",
+      "retained_column": "用補⟦歛／□⟧",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        177,
+        1461,
+        119,
+        420
+      ]
+    },
+    {
+      "unit_id": "f100-c02",
+      "frame": 100,
+      "image_sha256": "b11b2f8eba0ec8dc4a690309c60f6e60a525fdce6b4e00df0fd1f5a46465b59c",
+      "initial_column": "脾腎大虧中無砥柱惟恐虛陽上炎口⟦痺／疳⟧咽",
+      "sealed_column": "脾腎大虧中無砥柱惟恐虛陽上炎口痛咽",
+      "retained_column": "脾腎大虧中無砥柱惟恐虛陽上炎口⟦痺／疳⟧咽",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1039,
+        459,
+        120,
+        2295
+      ]
+    },
+    {
+      "unit_id": "f100-c06",
+      "frame": 100,
+      "image_sha256": "b11b2f8eba0ec8dc4a690309c60f6e60a525fdce6b4e00df0fd1f5a46465b59c",
+      "initial_column": "赤白苓　穀芽　薺菜花□",
+      "sealed_column": "赤白苓　穀芽　薺菜花二戔",
+      "retained_column": "赤白苓　穀芽　薺菜花□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        395,
+        439,
+        119,
+        1412
+      ]
+    },
+    {
+      "unit_id": "f101-c02",
+      "frame": 101,
+      "image_sha256": "e59cff72e988a62f10425d63a9c733bef097a21fc76777bce130cb5393018966",
+      "initial_column": "並恐怯損之防亟宜調攝為要",
+      "sealed_column": "近恐怯損之防亟宜調攝為要",
+      "retained_column": "並恐怯損之防亟宜調攝為要",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1090,
+        436,
+        119,
+        1514
+      ]
+    },
+    {
+      "unit_id": "f101-c03",
+      "frame": 101,
+      "image_sha256": "e59cff72e988a62f10425d63a9c733bef097a21fc76777bce130cb5393018966",
+      "initial_column": "全福花　川貝　山梔　冬虫夏艸",
+      "sealed_column": "全栝花　川貝　山梔　冬虫夏艸",
+      "retained_column": "全福花　川貝　山梔　冬虫夏艸",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        929,
+        446,
+        120,
+        1917
+      ]
+    },
+    {
+      "unit_id": "f101-c08",
+      "frame": 101,
+      "image_sha256": "e59cff72e988a62f10425d63a9c733bef097a21fc76777bce130cb5393018966",
+      "initial_column": "停滯日久遂成瘀血為患並白帶之來亦因氣机不利致生",
+      "sealed_column": "停滯日久遂成瘀血為患亞白帶之來亦因氣機不利致生",
+      "retained_column": "停滯日久遂成瘀血為患並白帶之來亦因氣机不利致生",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        99,
+        458,
+        119,
+        2384
+      ]
+    },
+    {
+      "unit_id": "f102-c01",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "者彼為病⟦致／□⟧由帶下不止可□宜先舒經逐瘀使氣机流暢",
+      "sealed_column": "著脹為病該白帶久不止可須宜先舒經逐瘀使氣机流暢",
+      "retained_column": "者彼為病⟦致／□⟧由帶下不止可□宜先舒經逐瘀使氣机流暢",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1231,
+        431,
+        120,
+        2384
+      ]
+    },
+    {
+      "unit_id": "f102-c02",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "自⟦察／□⟧下之后俟養補血方也",
+      "sealed_column": "自樂下之后可養補血方也",
+      "retained_column": "自⟦察／□⟧下之后俟養補血方也",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1071,
+        437,
+        119,
+        1181
+      ]
+    },
+    {
+      "unit_id": "f102-c03",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "桃仁泥□　川斷□　歸尾□　真川芎□　懷牛膝□",
+      "sealed_column": "桃仁泥五分　川斷五分　歸尾一戔　真川芎五分　懷牛膝一戔",
+      "retained_column": "桃仁泥□　川斷□　歸尾□　真川芎□　懷牛膝□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        910,
+        426,
+        120,
+        2131
+      ]
+    },
+    {
+      "unit_id": "f102-c04",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "赤芍□　紅花□　烏藥□　澤瀉□　加荷叶邊一圏",
+      "sealed_column": "赤芍一戔　紅花三分　烏藥五分　降香五分　□蘭叶過一圍",
+      "retained_column": "赤芍□　紅花□　烏藥□　澤瀉□　加荷叶邊一圏",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        718,
+        432,
+        120,
+        2213
+      ]
+    },
+    {
+      "unit_id": "f102-c05",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "痰⟦瘧／□⟧雜症脾土未健中州失暢胃納欠和□□消散擬",
+      "sealed_column": "痰壅維塞脾土未健中州失暢胃納欠和脈形滑數擬",
+      "retained_column": "痰⟦瘧／□⟧雜症脾土未健中州失暢胃納欠和□□消散擬",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        535,
+        432,
+        119,
+        2341
+      ]
+    },
+    {
+      "unit_id": "f102-c07",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "霍斛　㑹皮　腹絨　春苓　⟦蓮苔葉／□□葉⟧　□枳□□",
+      "sealed_column": "霍斛　會皮　海絨　赤芩　焦穀芽　紫梗蘇叶",
+      "retained_column": "霍斛　㑹皮　腹絨　春苓　⟦蓮苔葉／□□葉⟧　□枳□□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        281,
+        426,
+        120,
+        2328
+      ]
+    },
+    {
+      "unit_id": "f102-c08",
+      "frame": 102,
+      "image_sha256": "fe89a9e91cfc7cb502879f9379178830889e981216bacadcb43bb56ef8f9ad65",
+      "initial_column": "⟦杭／枳⟧連　廣霍　法夏　枳殻　九香虫　□□全",
+      "sealed_column": "梗通　廣藿　法夏　枳殼　九香虫　家佩兰",
+      "retained_column": "⟦杭／枳⟧連　廣霍　法夏　枳殻　九香虫　□□全",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        138,
+        450,
+        120,
+        2313
+      ]
+    },
+    {
+      "unit_id": "f103-t02",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "心泛嘔惡作〔呃？〕不休",
+      "sealed_column": "心泛嘔噁便溏不休",
+      "retained_column": "心泛嘔惡作〔呃？〕不休",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1158,
+        68,
+        120,
+        449
+      ]
+    },
+    {
+      "unit_id": "f103-t03",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "時寒時熱嘔惡〔狀？〕脈",
+      "sealed_column": "時寒時熱嘔□脹痞嘔",
+      "retained_column": "時寒時熱嘔惡〔狀？〕脈",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1073,
+        81,
+        120,
+        436
+      ]
+    },
+    {
+      "unit_id": "f103-t04",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "形弦滑舌苔微膩擬",
+      "sealed_column": "脈弦滑舌黃微膩□",
+      "retained_column": "形弦滑舌苔微膩擬",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        989,
+        82,
+        120,
+        432
+      ]
+    },
+    {
+      "unit_id": "f103-t05",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "芳香理氣和中清暑",
+      "sealed_column": "芳香化濁和中清暑",
+      "retained_column": "芳香理氣和中清暑",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        907,
+        59,
+        120,
+        515
+      ]
+    },
+    {
+      "unit_id": "f103-t06",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "一法備方候政",
+      "sealed_column": "法循方候效",
+      "retained_column": "一法備方候政",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        829,
+        68,
+        120,
+        383
+      ]
+    },
+    {
+      "unit_id": "f103-t08",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "大腹皮　荷梗　玉金",
+      "sealed_column": "大腹皮 牙枝 玉金",
+      "retained_column": "大腹皮　荷梗　玉金",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        672,
+        51,
+        121,
+        530
+      ]
+    },
+    {
+      "unit_id": "f103-t09",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "棕云麴　廣藿　兵榔",
+      "sealed_column": "陳六麯 藿梗 □柳",
+      "retained_column": "棕云麴　廣藿　兵榔",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        581,
+        59,
+        120,
+        496
+      ]
+    },
+    {
+      "unit_id": "f103-t10",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "赤茯苓　佩蘭　佛手",
+      "sealed_column": "祁花苓 條芩 佛手",
+      "retained_column": "赤茯苓　佩蘭　佛手",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        502,
+        74,
+        120,
+        502
+      ]
+    },
+    {
+      "unit_id": "f103-c01",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "醫按",
+      "sealed_column": "醫按",
+      "retained_column": "醫按",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1210,
+        630,
+        121,
+        232
+      ]
+    },
+    {
+      "unit_id": "f103-c02",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "食滯中〔洲？〕焦胸痞嘔惡外冒時邪身熱口燥脈弦舌",
+      "sealed_column": "食滯中洌焦胸痞嘔噁外冒時邪身熱口燥脈弦舌",
+      "retained_column": "食滯中〔洲？〕焦胸痞嘔惡外冒時邪身熱口燥脈弦舌",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1071,
+        631,
+        120,
+        2101
+      ]
+    },
+    {
+      "unit_id": "f103-c05",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "焦查肉　白芍　萊菔　佛手柑　姜汁炒竹茹〔丸？〕",
+      "sealed_column": "焦查肉 白芍 萊菔 佛手柑 薑汁炒竹茹另",
+      "retained_column": "焦查肉　白芍　萊菔　佛手柑　姜汁炒竹茹〔丸？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        593,
+        650,
+        121,
+        2071
+      ]
+    },
+    {
+      "unit_id": "f103-c06",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "感寒食滯胸腹時痛胃呆身熱〔如？〕脈浮弦舌白尖紅",
+      "sealed_column": "感寒食滯胸腹時痛冒呆身熱𢙐脈浮弦舌白尖紅",
+      "retained_column": "感寒食滯胸腹時痛胃呆身熱〔如？〕脈浮弦舌白尖紅",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        435,
+        642,
+        120,
+        2068
+      ]
+    },
+    {
+      "unit_id": "f103-c08",
+      "frame": 103,
+      "image_sha256": "11ad2aaaaf14b2d9a448b2941244676c3b5c270bf75bb0d9eb89d452a1a12e0c",
+      "initial_column": "霍石斛　查肉　枳殻　白芍　仝皮　西砂壳",
+      "sealed_column": "霍石斛 查肉 枳殼 白芍 會皮 西砂殼",
+      "retained_column": "霍石斛　查肉　枳殻　白芍　仝皮　西砂壳",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        125,
+        658,
+        120,
+        1976
+      ]
+    },
+    {
+      "unit_id": "f104-t01",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "元虛体弱暑濕",
+      "sealed_column": "元氣怯弱暑濕",
+      "retained_column": "元虛体弱暑濕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1272,
+        81,
+        120,
+        477
+      ]
+    },
+    {
+      "unit_id": "f104-t02",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "蘊中寒熱往來似",
+      "sealed_column": "留戀中寒熱往來心",
+      "retained_column": "蘊中寒熱往來似",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1187,
+        60,
+        121,
+        495
+      ]
+    },
+    {
+      "unit_id": "f104-t03",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "乎類瘧胸悶不舒",
+      "sealed_column": "空痰癰胸悶不舒",
+      "retained_column": "乎類瘧胸悶不舒",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1103,
+        81,
+        121,
+        474
+      ]
+    },
+    {
+      "unit_id": "f104-t04",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "胃納甚微脈形沉",
+      "sealed_column": "胃納少微飢形沉",
+      "retained_column": "胃納甚微脈形沉",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        998,
+        72,
+        121,
+        476
+      ]
+    },
+    {
+      "unit_id": "f104-t05",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "軟暫擬清暑去邪",
+      "sealed_column": "散暫擬清暑去邪",
+      "retained_column": "軟暫擬清暑去邪",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        895,
+        86,
+        121,
+        464
+      ]
+    },
+    {
+      "unit_id": "f104-t06",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "白芷尾　青蒿",
+      "sealed_column": "白芷殼 青蒿",
+      "retained_column": "白芷尾　青蒿",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        776,
+        91,
+        120,
+        481
+      ]
+    },
+    {
+      "unit_id": "f104-t10",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "新仝皮　霍斛",
+      "sealed_column": "新會皮 霍斛",
+      "retained_column": "新仝皮　霍斛",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        389,
+        84,
+        121,
+        483
+      ]
+    },
+    {
+      "unit_id": "f104-t12",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "荷叶梗",
+      "sealed_column": "加 荷叶梗",
+      "retained_column": "荷叶梗",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        176,
+        105,
+        121,
+        416
+      ]
+    },
+    {
+      "unit_id": "f104-c01",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "焦山梔　藕梗　廣藿　木香　赤苓　鮮荷叶",
+      "sealed_column": "焦山梔 蘇梗 廣藿 木香 赤苓 竹荷叶",
+      "retained_column": "焦山梔　藕梗　廣藿　木香　赤苓　鮮荷叶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1173,
+        661,
+        121,
+        1985
+      ]
+    },
+    {
+      "unit_id": "f104-c02",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "諸恙日減惟燥不飢脈形沉弦乃暑熱未清再依清",
+      "sealed_column": "諸恙日減惟燥不舒脈形沉弦乃暑熱未清再依清",
+      "retained_column": "諸恙日減惟燥不飢脈形沉弦乃暑熱未清再依清",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1014,
+        649,
+        121,
+        2112
+      ]
+    },
+    {
+      "unit_id": "f104-c08",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "initial_column": "香〔芥？〕穗　半夏　山梔　米仁　查肉　中朴",
+      "sealed_column": "香芎穗 半夏 山梔 米仁 查肉 中朴",
+      "retained_column": "香〔芥？〕穗　半夏　山梔　米仁　查肉　中朴",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        67,
+        661,
+        121,
+        1960
+      ]
+    },
+    {
+      "unit_id": "f105-c01",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "新仝皮　萊菔　冬参　穀芽　佩蘭叶",
+      "sealed_column": "新會皮 萊菔 条芩 穀芽 佩蘭叶",
+      "retained_column": "新仝皮　萊菔　冬参　穀芽　佩蘭叶",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1237,
+        644,
+        121,
+        1595
+      ]
+    },
+    {
+      "unit_id": "f105-c03",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "暑濕少減胸膈未清須兼脹疼再守前法",
+      "sealed_column": "暑濕少減胸膈未清須兼腹疼再守前法",
+      "retained_column": "暑濕少減胸膈未清須兼腹疼再守前法",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        920,
+        648,
+        121,
+        1750
+      ]
+    },
+    {
+      "unit_id": "f105-c05",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "廣藿香　知母　青皮　茯神　佛手　沉香",
+      "sealed_column": "廣藿香 蘇砂 亳皮 茯神 佛手 沉香",
+      "retained_column": "廣藿香　知母　青皮　茯神　佛手　沉香",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        607,
+        653,
+        121,
+        1877
+      ]
+    },
+    {
+      "unit_id": "f105-c06",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "痰邪漸解中寒氣化未利六脈稍越舌色淡黃尖滑",
+      "sealed_column": "疫邪漸解中寒氣化未利六脈稍越舌色淡黃尖滑",
+      "retained_column": "痰邪漸解中寒氣化未利六脈稍越舌色淡黃尖滑",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        451,
+        663,
+        121,
+        2075
+      ]
+    },
+    {
+      "unit_id": "f105-c07",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "挾〔暑？〕食濕未清由乎脾陽失健少陰暑熱內纏下焦",
+      "sealed_column": "挾食未清由乎脾陽失健少陰暑熱內纏下焦",
+      "retained_column": "挾〔暑？〕食濕未清由乎脾陽失健少陰暑熱內纏下焦",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        294,
+        656,
+        121,
+        2066
+      ]
+    },
+    {
+      "unit_id": "f105-c08",
+      "frame": 105,
+      "image_sha256": "e2611ea37d60122c3f79871266c5498a8e5b013ec1ac137aeec85131d1d44290",
+      "initial_column": "氣分蘊遏以致小溲仍濇再守前法靜候　明裁",
+      "sealed_column": "氣分蘊遏以致小溲仍濇再守前法靜候清裁",
+      "retained_column": "氣分蘊遏以致小溲仍濇再守前法靜候　明裁",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        129,
+        659,
+        121,
+        1995
+      ]
+    },
+    {
+      "unit_id": "f106-c01",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "製中朴　艸果　青皮　九香虫　六神〔麴？〕",
+      "sealed_column": "製中朴 炒米 青皮 九香虫 山茨菇",
+      "retained_column": "製中朴　艸果　青皮　九香虫　六神〔麴？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1171,
+        644,
+        121,
+        1697
+      ]
+    },
+    {
+      "unit_id": "f106-c03",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "加　降香　佛手　石〔砂？〕拌炒〔心？〕　全〔吉？〕",
+      "sealed_column": "加降香 佛手 石榴捧物心全去",
+      "retained_column": "加　降香　佛手　石〔砂？〕拌炒〔心？〕　全〔吉？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        850,
+        833,
+        121,
+        1618
+      ]
+    },
+    {
+      "unit_id": "f106-c04",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "小姐腎陰不足肝陽上越金受木刑以致脇痛頭脹",
+      "sealed_column": "小姐腎陰不足肝陽上越土受木刑以致脇痛頭脹",
+      "retained_column": "小姐腎陰不足肝陽上越金受木刑以致脇痛頭脹",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        685,
+        650,
+        121,
+        2119
+      ]
+    },
+    {
+      "unit_id": "f106-c05",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "咽喉〔癢？〕咳漸成〔癆／癰？〕患殊今勞怯〔枯？〕萌未易平復須耐",
+      "sealed_column": "咽喉癢咳漸成癖患殊令勞怯枯萌未易平復須耐",
+      "retained_column": "咽喉〔癢？〕咳漸成〔癆／癰？〕患殊今勞怯〔枯？〕萌未易平復須耐",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        531,
+        644,
+        121,
+        2049
+      ]
+    },
+    {
+      "unit_id": "f106-c06",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "性靜養以冀真水充足則木可平涵矣",
+      "sealed_column": "性靜養以冀金水充足則木可平涵矣",
+      "retained_column": "性靜養以冀真水充足則木可平涵矣",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        380,
+        644,
+        121,
+        1570
+      ]
+    },
+    {
+      "unit_id": "f106-c07",
+      "frame": 106,
+      "image_sha256": "7ec95abd194cae4556c2dfe1b3c842acba975fb4a53eb2583863a42e204dd3fc",
+      "initial_column": "血燕〔杞？〕　阿膠珠　麥冬　雲神　橘紅",
+      "sealed_column": "血燕杞 阿膠珠 麥冬 雲神 橘紅",
+      "retained_column": "血燕〔杞？〕　阿膠珠　麥冬　雲神　橘紅",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        219,
+        656,
+        121,
+        1785
+      ]
+    },
+    {
+      "unit_id": "f107-c02",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "白膩尖絳姑擬和解清法",
+      "sealed_column": "白膩尖絳粘膩和解清法",
+      "retained_column": "白膩尖絳姑擬和解清法",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1079,
+        675,
+        120,
+        1077
+      ]
+    },
+    {
+      "unit_id": "f107-c03",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "鼈血炒柴胡　半夏　青蒿　黃芩　麩炒砂仁",
+      "sealed_column": "鱉血炒柴胡 半夏 青蒿 黃芩 熟砂仁",
+      "retained_column": "鼈血炒柴胡　半夏　青蒿　黃芩　麩炒砂仁",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        919,
+        673,
+        120,
+        1795
+      ]
+    },
+    {
+      "unit_id": "f107-c04",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "廣藿香　竹茹　中朴　仝皮　荷梗　益元散",
+      "sealed_column": "廣藿香 炒米 中朴 會皮 荷梗 益元散",
+      "retained_column": "廣藿香　竹茹　中朴　仝皮　荷梗　益元散",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        755,
+        675,
+        120,
+        1929
+      ]
+    },
+    {
+      "unit_id": "f107-c05",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "伏暑感寒挾食而發嘔瀉潮熱脈數舌白擬溫化和",
+      "sealed_column": "伏暑感寒挾食而發嘔瀉潮熱脈數舌白膩溫化和",
+      "retained_column": "伏暑感寒挾食而發嘔瀉潮熱脈數舌白擬溫化和",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        596,
+        683,
+        120,
+        2078
+      ]
+    },
+    {
+      "unit_id": "f107-c07",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "製川朴　艸果　神曲　仝皮　查炭　益元散",
+      "sealed_column": "製川朴 炒米 神麯 會皮 查炭 益元散",
+      "retained_column": "製川朴　艸果　神曲　仝皮　查炭　益元散",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        286,
+        694,
+        120,
+        1910
+      ]
+    },
+    {
+      "unit_id": "f107-c08",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "initial_column": "法半夏　廣藿　赤苓　白芷　荷梗",
+      "sealed_column": "法半夏 廣藿 赤苓 香芷 荷梗",
+      "retained_column": "法半夏　廣藿　赤苓　白芷　荷梗",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        124,
+        684,
+        120,
+        1577
+      ]
+    },
+    {
+      "unit_id": "f108-c01",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘡疹滿布",
+      "sealed_column": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘄疹滿布",
+      "retained_column": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘄疹滿布",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1400,
+        687,
+        121,
+        2084
+      ]
+    },
+    {
+      "unit_id": "f108-c02",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "尚未透達勢分危途僅防厥脫慎之",
+      "sealed_column": "尚未透達勢幾危途僅防厥脫慎之□□",
+      "retained_column": "尚未透達勢分危途僅防厥脫慎之",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1241,
+        697,
+        120,
+        1652
+      ]
+    },
+    {
+      "unit_id": "f108-c03",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "鮮石斛〔四？〕　黃芩　丹皮二〔錢？〕　連翹三〔錢？〕　人中白一〔分？〕　天竹黃□",
+      "sealed_column": "鮮石斛四 黃芩 丹皮二五 連翹二五 人中白二錢 天竹黄四",
+      "retained_column": "鮮石斛〔四？〕　黃芩　丹皮二〔錢？〕　連翹三〔錢？〕　人中白一〔分？〕　天竹黃□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        1092,
+        697,
+        120,
+        2050
+      ]
+    },
+    {
+      "unit_id": "f108-c04",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "萊菔子〔二錢？〕　釣藤　山梔〔四？〕　石决〔五？〕　羚羊角〔一錢？〕　生石羔□",
+      "sealed_column": "萊菔子二五 鈎藤 山梔四 石決生 羚羊角一五 生石膏一兩",
+      "retained_column": "萊菔子〔二錢？〕　釣藤　山梔〔四？〕　石决〔五？〕　羚羊角〔一錢？〕　生石羔□",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        921,
+        695,
+        120,
+        2109
+      ]
+    },
+    {
+      "unit_id": "f108-c05",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "川軍三〔錢？〕　加　紫雪丹三分　鮮石菖蒲根〔一錢？〕　益元散",
+      "sealed_column": "川軍三分 加 紫雪丹三分 鮮石菖蒲根九莖數",
+      "retained_column": "川軍三〔錢？〕　加　紫雪丹三分　鮮石菖蒲根〔一錢？〕　益元散",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        764,
+        700,
+        121,
+        1942
+      ]
+    },
+    {
+      "unit_id": "f108-c06",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "改过加鮮生地　〔郁？〕金　瓜蒌三〔錢？〕",
+      "sealed_column": "改過加鮮生地□ 全瓜蔞三錢",
+      "retained_column": "改过加鮮生地　〔郁？〕金　瓜蒌三〔錢？〕",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        603,
+        1213,
+        120,
+        1333
+      ]
+    },
+    {
+      "unit_id": "f108-c07",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "寒蘊肝脾氣窒脈濇擬和中溫化法",
+      "sealed_column": "寒蘊肝脾氣窒脈濇膩和中溫化法",
+      "retained_column": "寒蘊肝脾氣窒脈濇擬和中溫化法",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        445,
+        697,
+        120,
+        1497
+      ]
+    },
+    {
+      "unit_id": "f108-c08",
+      "frame": 108,
+      "image_sha256": "a6f14db05bae4ff68e4cba43d1c6eac89b83e294a5383881387e88878137daaa",
+      "initial_column": "製香附　白芍　仝皮　玉金　木香　川楝子",
+      "sealed_column": "製香附 白芍 會皮 玉金 木香 川楝六",
+      "retained_column": "製香附　白芍　仝皮　玉金　木香　川楝子",
+      "reason": "保留固定初稿或已確定的局部訂正。其餘差異受草寫、疊筆、藥量或分欄影響，待回原圖裁定。",
+      "bbox_approx_xywh_px": [
+        285,
+        700,
+        120,
+        1961
+      ]
+    },
+    {
+      "unit": "f073-c01",
+      "frame": 73,
+      "image_sha256": "8469670e07456215062016731f9b1e4489a598cb779e6c3aa719636717cd6207",
+      "before": "腹中滯痛滯散則止診得六脉弦濇而小舌胎",
+      "reason": "「則」後筆勢短小，止與已待定。",
+      "image_bbox_xywh_approx": [
+        1218,
+        1262,
+        190,
+        477
+      ],
+      "candidate": "腹中滯痛滯散則已診得六脉弦濇而小舌胎"
+    },
+    {
+      "unit": "f074-c08",
+      "frame": 74,
+      "image_sha256": "f9c9ded7897e71f497cf700256945c573076ddb7c2d63d2afb480b0d8fb01017",
+      "before": "加　参三七　五分　〔第？〕〔柒？〕瓜汁去心冲服",
+      "reason": "「汁」前見外撇與末筆，瓜與取待核。",
+      "image_bbox_xywh_approx": [
+        87,
+        1745,
+        158,
+        354
+      ],
+      "candidate": "加　参三七　五分　〔第？〕〔柒？〕取汁去心冲服"
+    },
+    {
+      "unit": "f078-c02",
+      "frame": 78,
+      "image_sha256": "710464ee1f030b1b882db3c21e80f3d51dd613734d9dd5ab14ffb91ce8c11e7e",
+      "before": "解虛損入門藥難濟及故擬清金保肺",
+      "reason": "中段左右筆畫連寫，清金與法主留作候選。",
+      "image_bbox_xywh_approx": [
+        1025,
+        1995,
+        190,
+        600
+      ],
+      "candidate": "解虛損入門藥難濟及故擬法主保肺"
+    },
+    {
+      "unit": "f079-c01",
+      "frame": 79,
+      "image_sha256": "9402e678886a2e88df0f97e2a69195a1b68a496e82eddbffe855ca2180bf9492",
+      "before": "小姐連上　投清金保肺之法諸恙依然脉〔塗改〕弦細",
+      "reason": "同案用語與字形相近，清金與法主仍待核。",
+      "image_bbox_xywh_approx": [
+        1222,
+        777,
+        200,
+        694
+      ],
+      "candidate": "小姐連上　投法主保肺之法諸恙依然脉〔塗改〕弦細"
+    },
+    {
+      "unit": "f092-c02",
+      "frame": 92,
+      "image_sha256": "242009354e75ed81ba29ef557b5479ca7fcc5c3c3727248f4d04ff3355a4ef7e",
+      "before": "虛細擬扶元固本法",
+      "reason": "中央迴筆及末尾分開，耎、細與同手更字尚待區分。",
+      "image_bbox_xywh_approx": [
+        1050,
+        396,
+        169,
+        517
+      ],
+      "candidate": "虛耎擬扶元固本法"
+    },
+    {
+      "unit": "f100-c05",
+      "frame": 100,
+      "image_sha256": "b11b2f8eba0ec8dc4a690309c60f6e60a525fdce6b4e00df0fd1f5a46465b59c",
+      "before": "杭术炭　米仁　五味　上肉桂",
+      "reason": "左旁短橫及右上交筆，杭與於仍待定。",
+      "image_bbox_xywh_approx": [
+        528,
+        420,
+        186,
+        436
+      ],
+      "candidate": "於术炭　米仁　五味　上肉桂"
+    },
+    {
+      "unit": "f104-t07",
+      "frame": 104,
+      "image_sha256": "bf862b4092450b95ae9455406c183d87cf77f942d8f2c8b6a00bb711709ebb42",
+      "before": "江枳壳　查肉",
+      "reason": "三點旁右半較淡，尚無足夠筆畫區分江、法等讀。",
+      "image_bbox_xywh_approx": [
+        672,
+        87,
+        143,
+        274
+      ],
+      "candidate": "法枳壳　查肉"
+    },
+    {
+      "unit": "f107-c01",
+      "frame": 107,
+      "image_sha256": "65502021329fab9bd4d6329405f26081dd32341cc7c36384fb440c76d93776ce",
+      "before": "舌色",
+      "candidate": "舌毛",
+      "reason": "欄末字筆尾連寫，保留兩讀。"
+    }
+  ],
+  "marginal_findings": [
+    {
+      "unit_id": "f051-c05",
+      "frame": 51,
+      "image_sha256": "28e9f62504a58aa8f1d53c2d4440e1f6e69b0e02079acd6576204e627aa7a084",
+      "bbox_approx_xywh_px": [
+        720,
+        1686,
+        120,
+        234
+      ],
+      "image_evidence": "枇杷叶末字右下另有一小筆欄，見壳形，與正文寫列的中心線有偏移。",
+      "initial_annotation": "壳",
+      "proposed_annotation": "壳",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f053-c03",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "bbox_approx_xywh_px": [
+        952,
+        1685,
+        112,
+        262
+      ],
+      "image_evidence": "在五味下有縮小的川斷，墨較淡，仍順向排列。",
+      "initial_annotation": "川斷",
+      "proposed_annotation": "川斷",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f053-c04",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "bbox_approx_xywh_px": [
+        806,
+        1686,
+        114,
+        262
+      ],
+      "image_evidence": "在雲神下有縮小的狗脊，墨較淡，仍順向排列。",
+      "initial_annotation": "狗脊",
+      "proposed_annotation": "狗脊",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f053-c05",
+      "frame": 53,
+      "image_sha256": "bf24a840cc0eb510396d31ffac7627c59174b9bf2d0256b20f67ff6c3ac8d339",
+      "bbox_approx_xywh_px": [
+        652,
+        1686,
+        112,
+        262
+      ],
+      "image_evidence": "在棗仁下有縮小的杜仲，墨較淡，仍順向排列。",
+      "initial_annotation": "杜仲",
+      "proposed_annotation": "杜仲",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f054-c06",
+      "frame": 54,
+      "image_sha256": "2015bb28a0a68694a0cfa6231fc2d5fea29ee7f583ef0e383ab29269107fc3e7",
+      "bbox_approx_xywh_px": [
+        271,
+        83,
+        159,
+        450
+      ],
+      "image_evidence": "眉端洪下有細寫金，其下帶金旁並見重形相連橫筆。末兩字為娘子。第 057 幅有同形寫法。",
+      "initial_annotation": "洪金鑾娘子",
+      "proposed_annotation": "洪金鐘娘子",
+      "decision": "unresolved_side_reading"
+    },
+    {
+      "unit_id": "f057-c07",
+      "frame": 57,
+      "image_sha256": "84b96d9e58a5dd2816f7567561fa05bf39b91a183a079a3e0fdea315e269d00b",
+      "bbox_approx_xywh_px": [
+        222,
+        62,
+        165,
+        465
+      ],
+      "image_evidence": "眉端獨立短列，洪及娘子之間為金鐘，兩字部分相接。第 054 幅同形短列也留在眉端。",
+      "initial_annotation": "洪金鑾娘子",
+      "proposed_annotation": "洪金鐘娘子",
+      "decision": "unresolved_side_reading"
+    },
+    {
+      "unit_id": "f063-c03",
+      "frame": 63,
+      "image_sha256": "73658e2252dff8a88764904fb9cd9171208d02c11bf8d2cb1c13fe4560e6bb3f",
+      "bbox_approx_xywh_px": [
+        839,
+        100,
+        150,
+        330
+      ],
+      "image_evidence": "眉端窄欄周與書之間有四層短橫與中豎，頂端見一短橫而無分離點形，照圭。",
+      "initial_annotation": "周主書",
+      "proposed_annotation": "周圭書",
+      "decision": "unresolved_side_reading"
+    },
+    {
+      "unit_id": "f065-c01",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "bbox_approx_xywh_px": [
+        1348,
+        1346,
+        84,
+        256
+      ],
+      "image_evidence": "靠正文「乘」右側另見窄列，最後兩字筆形可辨月干及左阝右昜形，有夾寫線。",
+      "initial_annotation": "引動肝陽",
+      "proposed_annotation": "引動肝陽",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f065-c01",
+      "frame": 65,
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e",
+      "bbox_approx_xywh_px": [
+        1329,
+        1735,
+        105,
+        151
+      ],
+      "image_evidence": "靠正文「胃」右側另見二細字，上以的兩筆相近，下致有向右分筆。",
+      "initial_annotation": "以致",
+      "proposed_annotation": "以致",
+      "decision": "confirmed_existing"
+    },
+    {
+      "unit_id": "f070-c08",
+      "frame": 70,
+      "image_sha256": "a79cb3120e183fc882d3cafd0bdddef3d78dede9c5979c2dd12fa8e13ede433a",
+      "bbox_approx_xywh_px": [
+        213,
+        1950,
+        112,
+        180
+      ],
+      "image_evidence": "枇杷葉右側另寫，首部雨頭，下面路形。保留旁注位置。",
+      "initial_annotation": "露",
+      "proposed_annotation": "露",
+      "decision": "confirmed_existing"
+    }
+  ],
+  "layout_findings": [
+    {
+      "frame": 1,
+      "classification": "ritual_intro_with_separate_heading",
+      "evidence": "右側首欄見老君咒末，右二「法香」短欄另起。上緣殘墨約 x=965、y=310，左末有細小旁字。",
+      "bbox_approx_xywh_px": [
+        143,
+        270,
+        1235,
+        2500
+      ],
+      "image_sha256": "6d9d954761e90796d84941cd24734a13848b407dabf519329f13b3d696e22c30"
+    },
+    {
+      "frame": 4,
+      "classification": "illustration_with_text",
+      "evidence": "符題橫排由右至左。中央有三點、土地勅令及雙長迴環。右五末附兩小直欄，符座下另兩列。",
+      "bbox_approx_xywh_px": [
+        120,
+        365,
+        545,
+        2160
+      ],
+      "image_sha256": "94baa81e3a06d8a36924bac9885264f5d2f9206d94933b8c2e9ef7c7dd72ea0b"
+    },
+    {
+      "frame": 5,
+      "classification": "illustration_with_text",
+      "evidence": "「運光符式」橫題下有三組不同非字連筆及第一至第三符旁題。",
+      "bbox_approx_xywh_px": [
+        285,
+        460,
+        455,
+        1995
+      ],
+      "image_sha256": "97d44afb9e7069f859bacab5b22b071982403c4ccbc5987c2d484a10c585cba2"
+    },
+    {
+      "frame": 6,
+      "classification": "upside_down_title",
+      "evidence": "180 度轉正後右低「運光咒」、左高「龍虎壇」可分辨。本面其餘為低對比反向透墨。",
+      "bbox_approx_xywh_px": [
+        55,
+        1835,
+        280,
+        565
+      ],
+      "image_sha256": "902fe2d47e62bef140d8e9b3922fed9ca429ed45bfd601509c07d5a6e69b0de3"
+    },
+    {
+      "frame": 26,
+      "classification": "show_through_only",
+      "evidence": "原圖左半灰藍反墨，水平鏡射後與 025 的正文右半欄位、長短和若干輪廓相應。無本面正文單元。",
+      "bbox_approx_xywh_px": [
+        72,
+        210,
+        530,
+        1410
+      ],
+      "image_sha256": "81dc675507f3d1531d5a699455bcdbdb197d6f79400afa937f2235e6df5e5121"
+    },
+    {
+      "frame": 64,
+      "classification": "bleed-through",
+      "evidence": "未見可獨立順讀的正面墨列；頁面淡青灰墨字為反向透墨。",
+      "bbox_approx_xywh_px": [
+        0,
+        0,
+        1431,
+        2903
+      ],
+      "image_sha256": "3f50d60e5f9a184398adaf064327df6c7148d74252cb6089a47c8a35f5beeb15"
+    },
+    {
+      "frame": 65,
+      "classification": "upper_margin_columns",
+      "evidence": "正文正上方另有由右至左十四短欄，第十三、十四欄仍有讀字待決。",
+      "bbox_approx_xywh_px": [
+        43,
+        80,
+        1266,
+        395
+      ],
+      "image_sha256": "cdb376349407c6825ca59eefb6fc5206562446975f4b1ac6189b046bf8395d6e"
+    }
+  ],
+  "count_changes": 48
+}

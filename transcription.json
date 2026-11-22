@@ -7,10 +7,10 @@
     "source": "https://resolver.staatsbibliothek-berlin.de/SBB0001F08400000000",
     "manifest": "https://content.staatsbibliothek-berlin.de/dc/PPN3358708411/manifest",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 48 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 48 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -981,7 +981,7 @@
             {
               "id": "f013-c02",
               "role": "body",
-              "text": "枳殼　歸身　烏〔㮐？〕　綠梅　益智仁",
+              "text": "枳殼　歸全　烏〔㮐？〕　綠梅　益智仁",
               "x_approx": 1149,
               "position_note": "x≈1149"
             },
@@ -1444,7 +1444,7 @@
             {
               "id": "f019-c03",
               "role": "body",
-              "text": "加　羚頭尖　沉香片",
+              "text": "加　犂頭尖　沉香片",
               "x_approx": 924,
               "layer_label": "加筆"
             },
@@ -1546,7 +1546,7 @@
             {
               "id": "f020-c06",
               "role": "body",
-              "text": "食飲呆⟦飩／滯⟧左脉短滑右部沉細舌色白膩擬調肝理氣寛",
+              "text": "食飲呆⟦飩／滯⟧左脉弦滑右部沉細舌色白膩擬調肝理氣寛",
               "x_approx": 439,
               "layer_label": "案語"
             },
@@ -1560,7 +1560,7 @@
             {
               "id": "f020-c08",
               "role": "body",
-              "text": "法夏　枳殼　⟦玄艾／□艾⟧　茯苓　⟦橘柳／□柳⟧　帶□　薏仁",
+              "text": "法夏　枳殼　⟦玄艾／□艾⟧　猪苓　⟦橘柳／□柳⟧　帶□　薏仁",
               "x_approx": 142,
               "layer_label": "藥名"
             }
@@ -1592,7 +1592,7 @@
             {
               "id": "f021-c01",
               "role": "body",
-              "text": "廣⟦藿／霍⟧　腹絨　瓦楞子　⟦化／□⟧金丸　九□虫",
+              "text": "廣⟦藿／霍⟧　腹絨　瓦楞子　佐金丸　九□虫",
               "x_approx": 1232,
               "layer_label": "藥名"
             },
@@ -1701,7 +1701,7 @@
             {
               "id": "f022-c05",
               "role": "body",
-              "text": "肺氣攸虧濕痰內蘊咳嗆多時氣機窒塞脈形滑數擬扶",
+              "text": "肺氣攸虧濕痰內蘊咳嗆多時氣機窒塞脈形滑更擬扶",
               "x_approx": 605,
               "layer_label": "案語"
             },
@@ -1877,7 +1877,7 @@
             {
               "id": "f024-c07",
               "role": "body",
-              "text": "加　荸薺　蓬大海",
+              "text": "加　葶藶　蓬大海",
               "x_approx": 316,
               "position_note": "x≈316"
             },
@@ -2172,7 +2172,7 @@
             {
               "id": "f029-c02",
               "role": "body",
-              "text": "形沉細擬扶元滲濕為主",
+              "text": "形沉更擬扶元滲濕為主",
               "x_approx": 1134,
               "position_note": "x≈1134"
             },
@@ -2255,7 +2255,7 @@
             {
               "id": "f030-c02",
               "role": "body",
-              "text": "陰虛〔挾？〕濕夢泄遺精脉形沉細擬養陰滲濕固精為",
+              "text": "陰虛〔挾？〕濕夢泄遺精脉形沉更擬養陰滲濕固精為",
               "x_approx": 1035,
               "position_note": "x≈1035"
             },
@@ -2290,7 +2290,7 @@
             {
               "id": "f030-c07",
               "role": "body",
-              "text": "火土兩虧納穀不化黎泄瀉腹痛胃呆脉形虛細擬",
+              "text": "火土兩虧納穀不化黎泄瀉腹痛胃呆脉形虛更擬",
               "x_approx": 248,
               "position_note": "x≈248"
             },
@@ -2610,7 +2610,7 @@
             {
               "id": "f034-c05",
               "role": "body",
-              "text": "細姑擬養營益氣斂陰固下之法然否候　柳汀道兄",
+              "text": "更姑擬養營益氣斂陰固下之法然否候　柳汀道兄",
               "x_approx": 576,
               "position_note": "x≈576"
             },
@@ -2701,7 +2701,7 @@
             {
               "id": "f035-c06",
               "role": "body",
-              "text": "寒熱之後肝木不調胃脘作痛納穀痞脹脉形沉細",
+              "text": "寒熱之後肝木不調胃脘作痛納穀痞脹脉形沉更",
               "x_approx": 513,
               "position_note": "x≈513"
             },
@@ -2868,7 +2868,7 @@
             {
               "id": "f037-c07",
               "role": "body",
-              "text": "營虛脾〔濕？〕腹膨經阻胃呆疲軟脉滑舌黃暫擬",
+              "text": "營虛脾〔濕？〕腹膨經阻胃呆疲軟脉滯舌黃暫擬",
               "x_approx": 348,
               "position_note": "x≈348"
             },
@@ -3213,7 +3213,7 @@
             {
               "id": "f041-c08",
               "role": "body",
-              "text": "代者石　黃芩　山梔　川貝　廣藿　荸薺　蓬大海",
+              "text": "代者石　黃芩　山梔　川貝　廣藿　葶藶　蓬大海",
               "x_approx": 175,
               "position_note": "x≈175"
             }
@@ -3370,14 +3370,14 @@
             {
               "id": "f043-c06",
               "role": "body",
-              "text": "身熱痊後胸痞脘脹肢痠体倦納穀作脹六脉虛軟擬和",
+              "text": "身熱痊後胸痞脘脹肢疲体倦納穀作脹六脉虛軟擬和",
               "x_approx": 470,
               "position_note": "x≈470"
             },
             {
               "id": "f043-c07",
               "role": "body",
-              "text": "中利胃法",
+              "text": "中開胃法",
               "x_approx": 315,
               "position_note": "x≈315"
             },
@@ -3603,7 +3603,7 @@
             {
               "id": "f046-c03",
               "role": "body",
-              "text": "服藥後咳嗆失血均覺頗減脉得和緩為虛損之萌藥難",
+              "text": "服藥後咳嗆失血均覺頗減脉得和緩屬虛損之萌藥難",
               "x_approx": 891,
               "position_note": "x≈891"
             },
@@ -3777,7 +3777,7 @@
             {
               "id": "f048-c03",
               "role": "body",
-              "text": "冬虫夏艸　仝皮　羚羊　蘇子　赭石",
+              "text": "冬虫夏艸　会皮　羚羊　蘇子　赭石",
               "x_approx": 915,
               "position_note": "x≈915"
             },
@@ -4037,7 +4037,7 @@
             {
               "id": "f051-c04",
               "role": "body",
-              "text": "北五味　川貝　青黛　紫苑　馬兜〔苓／鈴？〕",
+              "text": "北五味　川貝　青黛　紫苑　馬兜令",
               "x_approx": 843,
               "position_note": "x≈843"
             },
@@ -4269,7 +4269,7 @@
             {
               "id": "f054-c03",
               "role": "body",
-              "text": "鹽水炒西耆　大安砂",
+              "text": "鹽水炒西黨　大安砂",
               "x_approx": 880,
               "position_note": "x≈880"
             },
@@ -4337,7 +4337,7 @@
             {
               "id": "f055-c01",
               "role": "body",
-              "text": "〔鞠？〕背痛痰阻于足三陰經久已潰",
+              "text": "鞠背瘤疾阻于足三陰經久已潰",
               "x_approx": 1311,
               "position_note": "x≈1311"
             },
@@ -4365,7 +4365,7 @@
             {
               "id": "f055-c05",
               "role": "body",
-              "text": "炙龜版　穀芽　西耆",
+              "text": "炙龜版　穀芽　西黨",
               "x_approx": 688,
               "position_note": "x≈688"
             },
@@ -4543,7 +4543,7 @@
             {
               "id": "f057-c08",
               "role": "body",
-              "text": "青防風　山梔　連翹　鬱金　枳殻　甘菊",
+              "text": "青防風　山梔　連翹　鬱金　枳殻　青蒿",
               "x_approx": 198,
               "position_note": "x≈198"
             }
@@ -4597,7 +4597,7 @@
             {
               "id": "f058-c04",
               "role": "body",
-              "text": "法半夏　猪苓　蔞全　〔藶？〕子",
+              "text": "法半夏　猪苓　蔞全　蒼耳子",
               "x_approx": 741,
               "position_note": "x≈741"
             },
@@ -4768,7 +4768,7 @@
             {
               "id": "f060-c06",
               "role": "body",
-              "text": "九孔石决明　龍齒　雲神　蒺藜",
+              "text": "九孔石决明　龍齒　雲神　艾藜",
               "x_approx": 431,
               "position_note": "x≈431"
             },
@@ -4815,7 +4815,7 @@
             {
               "id": "f061-c01",
               "role": "body",
-              "text": "腎水不充肝陽上發陽明之火有升無降以致牙痛",
+              "text": "腎水不充肝陽上發陽明之火有升無降以致牙漏",
               "x_approx": 1296,
               "position_note": "x≈1296"
             },
@@ -4857,7 +4857,7 @@
             {
               "id": "f061-c07",
               "role": "body",
-              "text": "怯損之根纏綿幾載去秋來血痢不止胃納減少形",
+              "text": "怯損之根纏綿幾載去秋末血痢不止胃納減少形",
               "x_approx": 346,
               "position_note": "x≈346"
             },
@@ -4904,7 +4904,7 @@
             {
               "id": "f062-c02",
               "role": "body",
-              "text": "冬术炭　白芍　五味　仝皮　肉蔻　九香虫",
+              "text": "冬术炭　白芍　五味　会皮　肉菓　九香虫",
               "x_approx": 1064,
               "position_note": "x≈1064"
             },
@@ -5007,14 +5007,14 @@
             {
               "id": "f063-c05",
               "role": "body",
-              "text": "養胃芳香調氣、法仍候　明裁",
+              "text": "養胃芳香調氣、法仍候　自裁",
               "x_approx": 671,
               "position_note": "x≈671"
             },
             {
               "id": "f063-c06",
               "role": "body",
-              "text": "白术炭　煨肉蔻　車前　白芍　九香虫",
+              "text": "白术炭　煨肉菓　車前　白芍　九香虫",
               "x_approx": 503,
               "position_note": "x≈503"
             },
@@ -5093,7 +5093,7 @@
             {
               "id": "f065-c02",
               "role": "body",
-              "text": "脈形沉細總之因木旺土虛脾陽失健擬調肝理氣",
+              "text": "脈形沉細總之之木旺土虛脾陽失健擬調肝理氣",
               "x_approx": 1150,
               "position_note": "x≈1150"
             },
@@ -5496,7 +5496,7 @@
             {
               "id": "f070-c03",
               "role": "body",
-              "text": "為怯損已成之候也炎暑在邇一水難支二火最深",
+              "text": "為怯損已成之候也炎暑在近一水難支二火最深",
               "x_approx": 963,
               "position_note": "x≈963"
             },
@@ -5517,7 +5517,7 @@
             {
               "id": "f070-c06",
               "role": "body",
-              "text": "女貞子　川貝　知母　人中白",
+              "text": "女珍子　川貝　知母　人中白",
               "x_approx": 444,
               "position_note": "x≈444"
             },
@@ -5564,7 +5564,7 @@
             {
               "id": "f071-c01",
               "role": "body",
-              "text": "肝火熾盛內熱生痰冲入心胞迷悶不醒〔屢？〕作",
+              "text": "肝火熾盛內熱生痰冲入心胞迷悶不醒屢作",
               "x_approx": 1302,
               "position_note": "x≈1302"
             },
@@ -5606,7 +5606,7 @@
             {
               "id": "f071-c07",
               "role": "body",
-              "text": "加　佛手柑一分",
+              "text": "加　佛手柑八分",
               "x_approx": 207,
               "position_note": "x≈207"
             }
@@ -5987,7 +5987,7 @@
             {
               "id": "f076-c06",
               "role": "body",
-              "text": "加　鮮竹〔茹？〕　三分",
+              "text": "加　鮮竹茹　三分",
               "x_approx": 197,
               "position_note": "x≈197"
             }
@@ -6048,7 +6048,7 @@
             {
               "id": "f077-c05",
               "role": "body",
-              "text": "嫩前胡　廣藿　會更　淡豆豉",
+              "text": "嫩前胡　廣藿　會皮　淡豆豉",
               "x_approx": 636,
               "position_note": "x≈636"
             },
@@ -6722,7 +6722,7 @@
             {
               "id": "f086-c02",
               "role": "body",
-              "text": "脉形沉細舌色乏液此乃暑濕傷營脾土失",
+              "text": "脉形沉細舌色之液少乃暑濕傷營脾土失",
               "x_approx": 1119,
               "position_note": "x≈1119"
             },
@@ -7267,14 +7267,14 @@
             {
               "id": "f091-c07",
               "role": "body",
-              "text": "〔藿？〕〔香？〕〔白？〕",
+              "text": "鉤藤勾",
               "x_approx": 211,
               "position_note": "x≈211"
             },
             {
               "id": "f091-c08",
               "role": "body",
-              "text": "加　天花〔粉？〕",
+              "text": "加　七液丹",
               "x_approx": 104,
               "position_note": "x≈104"
             }
@@ -7790,7 +7790,7 @@
             {
               "id": "f098-c01",
               "role": "body",
-              "text": "寒迴之後濕濁未清肢痠疼痛胃納不宣脉",
+              "text": "寒熱之後濕濁未清肢痠疼痛胃納不宣脉",
               "x_approx": 1269,
               "layer_label": "案語"
             },
@@ -7804,7 +7804,7 @@
             {
               "id": "f098-c03",
               "role": "body",
-              "text": "冬术炭　川斛　狗脊　赤茯苓",
+              "text": "冬术炭　川斷　狗脊　赤茯苓",
               "x_approx": 948,
               "layer_label": "藥名"
             },
@@ -7832,7 +7832,7 @@
             {
               "id": "f098-c07",
               "role": "body",
-              "text": "心腎不交痰蒙清竅神不守舍悸不寐脉形沉滑",
+              "text": "心腎不交痰蒙清竅神不守舍心悸不寐脉形沉滑",
               "x_approx": 540,
               "layer_label": "案語"
             },
@@ -8043,7 +8043,7 @@
             {
               "id": "f100-c09",
               "role": "marginalia",
-              "text": "研末做丸冲服",
+              "text": "研末飯丸冲服",
               "x_approx": 686,
               "layer_label": "旁注"
             }
@@ -8356,7 +8356,7 @@
             {
               "id": "f103-c07",
               "role": "body",
-              "text": "須宜疏化為主",
+              "text": "次宜疏化為主",
               "x_approx": 342,
               "position_note": "x≈342"
             },
@@ -8580,7 +8580,7 @@
             {
               "id": "f105-c03",
               "role": "body",
-              "text": "暑濕少減胸膈未清須兼脹疼再守前法",
+              "text": "暑濕少減胸膈未清須兼腹疼再守前法",
               "x_approx": 982,
               "position_note": "x≈982"
             },
@@ -8730,7 +8730,7 @@
             {
               "id": "f107-c01",
               "role": "body",
-              "text": "伏暑感寒而發潮熱薄汗不解脈形弦細而數舌色",
+              "text": "伏暑感寒而發潮熱得汗不解脈形弦細而數舌色",
               "x_approx": 1304,
               "position_note": "x≈1304"
             },
@@ -8812,7 +8812,7 @@
             {
               "id": "f108-c01",
               "role": "body",
-              "text": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘡疹滿布",
+              "text": "溫邪內陷痙厥神昏口渴咽乾心煩嘔惡瘄疹滿布",
               "x_approx": 1460,
               "position_note": "x≈1460"
             },
@@ -9013,7 +9013,8 @@
       "duplicate-visible-ink": 14
     },
     "transcribed_units": 858,
-    "units_with_uncertainty_notation": 173
+    "units_with_uncertainty_notation": 166,
+    "reviewed_image_frames": 109
   },
   "reading_order": "主欄依影像由右至左。倒書依轉正方向；藥行留空、符式、刪改與側錄另標，非主文者分層。",
   "uncertainty": "□標未能判定，〔　〕或⟦　⟧含疑讀、手稿附記或實際所見現象。未定的量記保留，不依常用詞補讀。",

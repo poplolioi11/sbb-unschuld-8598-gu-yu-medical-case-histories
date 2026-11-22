@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '〔醫案〕（古愚，柏林國立圖書館 Unschuld 8598） / Yi an [Medical Case Histories]: Transcription
   Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

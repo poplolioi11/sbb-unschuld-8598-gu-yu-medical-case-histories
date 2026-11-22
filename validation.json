@@ -5,8 +5,8 @@
   "cff_schema": "1.2.0",
   "ordered_text_roundtrip": "passed",
   "content_sha256": {
-    "transcription.json": "ad7123936301d44feae5aa042624cc2be23faf55ac267f0a0baf1c7bf1f9fb87",
-    "transcription.txt": "0506817b5817511b13f134c37482faf8fcbcaf0031762f8a42b2026138cd39a8",
-    "transcription.tei.xml": "71de8455593e595cf7e220ee06fe52a6243235d67a1db01a3dec1b45c52d6aca"
+    "transcription.json": "c5e101c5896fcc9919e1ecd3f411a0d7fe837990ff1bde773b15b610851c03ae",
+    "transcription.txt": "b3855b16c80662cdadfed6bd33639d4aefd89b726ba24dadd3234f5926053a25",
+    "transcription.tei.xml": "2cba89ad78e671226a79d709d091ed1f11d59484027e8f5307acd4d066c375df"
   }
 }

@@ -3,7 +3,7 @@
   "image_viewer": "https://content.staatsbibliothek-berlin.de/dc/PPN3358708411/manifest",
   "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
   "shelfmark": "Slg. Unschuld 8598（PPN3358708411）",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,
